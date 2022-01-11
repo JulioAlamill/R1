@@ -1,0 +1,35 @@
+CREATE OR REPLACE PROCEDURE ut_etoro_profolio_update ( 
+	 UPDATE_TYPE INTEGER			
+	,TICKER_INPUT   Varchar(15) 
+	,TRANS_DATE_INPUT DATE  DEFAULT CURRENT_DATE )
+
+LANGUAGE plpgsql
+AS $procedure$
+BEGIN
+
+
+
+IF UPDATE_TYPE = 0  THEN
+	--SELL  IN ETORO 
+	DELETE FROM  DF_ETORO_IMP WHERE TICKER = TICKER_INPUT;
+
+--BUY IN ETORO 
+ELSIF UPDATE_TYPE = 1  THEN
+	INSERT INTO DF_ETORO_IMP (TICKER, PORFOLIO , TRANS_DATE)
+	VALUES (TICKER_INPUT, 'ETORO', TRANS_DATE_INPUT);
+ 
+end if;
+ 
+ call p03_porfolios_update ( );
+ END
+$procedure$
+
+
+/*
+
+--INPUT  DATE IS CONDITIONAL EXAMPLE '2021-10-15'
+CALL ut_etoro_profolio_update(1, 'COIN')
+-- DELETE 
+CALL ut_etoro_profolio_update(0, 'COIN')
+
+*/

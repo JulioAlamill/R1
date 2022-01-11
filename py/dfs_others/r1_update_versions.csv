@@ -1,0 +1,5 @@
+﻿,id_proc,query,desc
+1,1,select *  from df_kpi where ja_inv_score> 7;,Most Relevant in KPI
+2,2,select *  from df_kpi;,All KPI
+3,3,select * from tickers;,All_tickers
+4,4,select * from tickers_test;,Testing table 

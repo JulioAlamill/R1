@@ -1,0 +1,1531 @@
+Job started at: 11:00:01---------------
+2021-12-30 11:00:03.214722
+754 tickets to Download
+INFO Dowload started at 2021-12-30 11:00:04.754770
+
+ASC.L's yahoo recomendation data done
+WDP.BR's yahoo recomendation data done
+SOF.BR's yahoo recomendation data done
+SANT.DE's yahoo recomendation data done
+DM's yahoo recomendation data done
+ASTC's yahoo recomendation data done
+POLY.L's yahoo recomendation data done
+DIA.MI's yahoo recomendation data done
+FXPO.L's yahoo recomendation data done
+PMTS's yahoo recomendation data done
+WLN.PA's yahoo recomendation data done
+SWMA.ST's yahoo recomendation data done
+GAMB's yahoo recomendation data done
+AVST.L's yahoo recomendation data done
+3323.HK's yahoo recomendation data done
+SDH ticker error processing INFO, Proc has  pass
+0968.HK's yahoo recomendation data done
+NEM.DE's yahoo recomendation data done
+FKWL's yahoo recomendation data done
+NTDOY's yahoo recomendation data done
+SMT.L's yahoo recomendation data done
+STMP ticker error processing INFO, Proc has  pass
+2331.HK's yahoo recomendation data done
+OCG ticker error processing INFO, Proc has  pass
+HKIB's yahoo recomendation data done
+1109.HK's yahoo recomendation data done
+ALTA ticker error processing INFO, Proc has  pass
+PRAH ticker error processing INFO, Proc has  pass
+TRMT ticker error processing INFO, Proc has  pass
+SLCT ticker error processing INFO, Proc has  pass
+CIH ticker error processing INFO, Proc has  pass
+LITB's yahoo recomendation data done
+VHC's yahoo recomendation data done
+BIM.PA's yahoo recomendation data done
+SGRO.L's yahoo recomendation data done
+HUIZ's yahoo recomendation data done
+TX's yahoo recomendation data done
+3968.HK's yahoo recomendation data done
+DLTR's yahoo recomendation data done
+CTAS's yahoo recomendation data done
+TAK's yahoo recomendation data done
+INTZ's yahoo recomendation data done
+QNST's yahoo recomendation data done
+CNF's yahoo recomendation data done
+NKTR's yahoo recomendation data done
+YALA's yahoo recomendation data done
+BLCT's yahoo recomendation data done
+LI's yahoo recomendation data done
+FSBC's yahoo recomendation data done
+PCH's yahoo recomendation data done
+FOA's yahoo recomendation data done
+BDX's yahoo recomendation data done
+LX's yahoo recomendation data done
+SID's yahoo recomendation data done
+CROX's yahoo recomendation data done
+CNCE's yahoo recomendation data done
+DHI's yahoo recomendation data done
+NVR's yahoo recomendation data done
+NVCR's yahoo recomendation data done
+ITIC's yahoo recomendation data done
+BABA's yahoo recomendation data done
+SMLR's yahoo recomendation data done
+IDN's yahoo recomendation data done
+VNDA's yahoo recomendation data done
+SHAK's yahoo recomendation data done
+EVBG's yahoo recomendation data done
+CSL.AX's yahoo recomendation data done
+OLO's yahoo recomendation data done
+OLK's yahoo recomendation data done
+HEAR's yahoo recomendation data done
+ET's yahoo recomendation data done
+CRESY's yahoo recomendation data done
+CPB's yahoo recomendation data done
+CHD's yahoo recomendation data done
+SOI's yahoo recomendation data done
+MASS's yahoo recomendation data done
+OWLT's yahoo recomendation data done
+IRMD's yahoo recomendation data done
+MRVL's yahoo recomendation data done
+FIZZ's yahoo recomendation data done
+ISDR's yahoo recomendation data done
+RGEN's yahoo recomendation data done
+GO's yahoo recomendation data done
+VMD ticker error processing INFO, Proc has  pass
+GPROFUT.MX's yahoo recomendation data done
+LARK's yahoo recomendation data done
+UBOH's yahoo recomendation data done
+JWEL ticker error processing INFO, Proc has  pass
+1585.HK's yahoo recomendation data done
+FINV's yahoo recomendation data done
+0914.HK's yahoo recomendation data done
+SY's yahoo recomendation data done
+IPN.PA's yahoo recomendation data done
+LFVN's yahoo recomendation data done
+TLG.DE's yahoo recomendation data done
+TOMZ's yahoo recomendation data done
+SAM's yahoo recomendation data done
+GDYN's yahoo recomendation data done
+BBOX.L's yahoo recomendation data done
+STVN's yahoo recomendation data done
+VIPS's yahoo recomendation data done
+SMSI's yahoo recomendation data done
+RGLS's yahoo recomendation data done
+UWMC's yahoo recomendation data done
+FGBI's yahoo recomendation data done
+IONS's yahoo recomendation data done
+LGIH's yahoo recomendation data done
+BWMX's yahoo recomendation data done
+IPW's yahoo recomendation data done
+KARO's yahoo recomendation data done
+ONTF's yahoo recomendation data done
+INNV's yahoo recomendation data done
+ABCL's yahoo recomendation data done
+FEMY's yahoo recomendation data done
+KMDA's yahoo recomendation data done
+ATHM's yahoo recomendation data done
+ARCE's yahoo recomendation data done
+VALE's yahoo recomendation data done
+GOTU's yahoo recomendation data done
+TRVN's yahoo recomendation data done
+ADPT's yahoo recomendation data done
+PUBM's yahoo recomendation data done
+RMO's yahoo recomendation data done
+QDEL's yahoo recomendation data done
+KPLT's yahoo recomendation data done
+CLVT's yahoo recomendation data done
+CRCT's yahoo recomendation data done
+VTEX's yahoo recomendation data done
+SRT.DE's yahoo recomendation data done
+DFH's yahoo recomendation data done
+GCBC's yahoo recomendation data done
+CRVL's yahoo recomendation data done
+FORTY's yahoo recomendation data done
+WILC's yahoo recomendation data done
+OBCI's yahoo recomendation data done
+MSB's yahoo recomendation data done
+GRVY's yahoo recomendation data done
+AVK's yahoo recomendation data done
+ESGR's yahoo recomendation data done
+DISCB's yahoo recomendation data done
+MORN's yahoo recomendation data done
+PDEX's yahoo recomendation data done
+EEIQ's yahoo recomendation data done
+RILY's yahoo recomendation data done
+EDTK ticker error processing INFO, Proc has  pass
+BHAT ticker error processing INFO, Proc has  pass
+GBS ticker error processing INFO, Proc has  pass
+OPY's yahoo recomendation data done
+PBHC's yahoo recomendation data done
+HIFS's yahoo recomendation data done
+SIEB's yahoo recomendation data done
+ACNB's yahoo recomendation data done
+TSBK's yahoo recomendation data done
+PKBK's yahoo recomendation data done
+SJ ticker error processing INFO, Proc has  pass
+NRC's yahoo recomendation data done
+BETS-B.ST's yahoo recomendation data done
+IGIC's yahoo recomendation data done
+SF.ST's yahoo recomendation data done
+HFG.DE's yahoo recomendation data done
+BOMN's yahoo recomendation data done
+WYY's yahoo recomendation data done
+HLG's yahoo recomendation data done
+1299.HK's yahoo recomendation data done
+LOGN.SW's yahoo recomendation data done
+0700.HK's yahoo recomendation data done
+INS's yahoo recomendation data done
+DISCK's yahoo recomendation data done
+ERF.PA's yahoo recomendation data done
+ENX.PA's yahoo recomendation data done
+SVW.AX's yahoo recomendation data done
+JD.L's yahoo recomendation data done
+HL.L's yahoo recomendation data done
+ASML.AS's yahoo recomendation data done
+TEG.DE's yahoo recomendation data done
+ALL.AX's yahoo recomendation data done
+WOR.AX's yahoo recomendation data done
+DSV.CO's yahoo recomendation data done
+RMD.AX's yahoo recomendation data done
+BC8.DE's yahoo recomendation data done
+GTT.PA's yahoo recomendation data done
+DIM.PA's yahoo recomendation data done
+SIM.CO's yahoo recomendation data done
+IG.MI's yahoo recomendation data done
+HLMA.L's yahoo recomendation data done
+PW's yahoo recomendation data done
+TRIG.L's yahoo recomendation data done
+HQI's yahoo recomendation data done
+SVA's yahoo recomendation data done
+BXC's yahoo recomendation data done
+ATKR's yahoo recomendation data done
+FEVR.L's yahoo recomendation data done
+LGL's yahoo recomendation data done
+ADSK's yahoo recomendation data done
+AMAL's yahoo recomendation data done
+AEI's yahoo recomendation data done
+FIVE's yahoo recomendation data done
+FND's yahoo recomendation data done
+NFLX's yahoo recomendation data done
+TROX's yahoo recomendation data done
+NOW's yahoo recomendation data done
+VIRT's yahoo recomendation data done
+CMC's yahoo recomendation data done
+PKI's yahoo recomendation data done
+CAMT's yahoo recomendation data done
+GLOB's yahoo recomendation data done
+AEL's yahoo recomendation data done
+PECO's yahoo recomendation data done
+GNSS's yahoo recomendation data done
+CBNK's yahoo recomendation data done
+YETI's yahoo recomendation data done
+OBT's yahoo recomendation data done
+ALGN's yahoo recomendation data done
+CPRX's yahoo recomendation data done
+LULU's yahoo recomendation data done
+SGH's yahoo recomendation data done
+CPRT's yahoo recomendation data done
+ASGN's yahoo recomendation data done
+CDNS's yahoo recomendation data done
+CNXC's yahoo recomendation data done
+KLAC's yahoo recomendation data done
+DLTH's yahoo recomendation data done
+SBRA's yahoo recomendation data done
+EXPI's yahoo recomendation data done
+CTRE's yahoo recomendation data done
+MKTX's yahoo recomendation data done
+EPRT's yahoo recomendation data done
+HCA's yahoo recomendation data done
+DXC's yahoo recomendation data done
+FSS's yahoo recomendation data done
+NSP's yahoo recomendation data done
+APH's yahoo recomendation data done
+SPSC's yahoo recomendation data done
+EXPD's yahoo recomendation data done
+BUR ticker error processing INFO, Proc has  pass
+TYL's yahoo recomendation data done
+KNX's yahoo recomendation data done
+GTEC's yahoo recomendation data done
+GTN's yahoo recomendation data done
+SCU's yahoo recomendation data done
+MSCI's yahoo recomendation data done
+GRMN's yahoo recomendation data done
+PRI's yahoo recomendation data done
+VZ's yahoo recomendation data done
+1810.HK's yahoo recomendation data done
+SNX's yahoo recomendation data done
+NXST's yahoo recomendation data done
+ESNT's yahoo recomendation data done
+MPLX's yahoo recomendation data done
+BAH's yahoo recomendation data done
+COP.DE's yahoo recomendation data done
+PPBI's yahoo recomendation data done
+AVY's yahoo recomendation data done
+SPNS's yahoo recomendation data done
+AZPN's yahoo recomendation data done
+UTHR's yahoo recomendation data done
+HSY's yahoo recomendation data done
+CIO's yahoo recomendation data done
+TBK's yahoo recomendation data done
+HTA's yahoo recomendation data done
+LAND's yahoo recomendation data done
+TRU's yahoo recomendation data done
+BRP's yahoo recomendation data done
+EQT's yahoo recomendation data done
+NOG's yahoo recomendation data done
+FTSI's yahoo recomendation data done
+TGS's yahoo recomendation data done
+SPWR's yahoo recomendation data done
+CVE's yahoo recomendation data done
+NTR's yahoo recomendation data done
+UBCP's yahoo recomendation data done
+CIVB's yahoo recomendation data done
+FCCY's yahoo recomendation data done
+LPLA's yahoo recomendation data done
+FMBH's yahoo recomendation data done
+FRBA's yahoo recomendation data done
+AUB's yahoo recomendation data done
+FBMS's yahoo recomendation data done
+BSRR's yahoo recomendation data done
+CCNE's yahoo recomendation data done
+RBB's yahoo recomendation data done
+SBCF's yahoo recomendation data done
+SIGA's yahoo recomendation data done
+BUSE's yahoo recomendation data done
+CVBF's yahoo recomendation data done
+IBTX's yahoo recomendation data done
+PFBC's yahoo recomendation data done
+BFST's yahoo recomendation data done
+AMNB's yahoo recomendation data done
+TSC's yahoo recomendation data done
+GABC's yahoo recomendation data done
+FIBK's yahoo recomendation data done
+TFC's yahoo recomendation data done
+CATC's yahoo recomendation data done
+PFHD's yahoo recomendation data done
+HBMD's yahoo recomendation data done
+UNTY's yahoo recomendation data done
+ORRF's yahoo recomendation data done
+NTST's yahoo recomendation data done
+FIGS's yahoo recomendation data done
+COIN's yahoo recomendation data done
+ZIP's yahoo recomendation data done
+HAYW's yahoo recomendation data done
+VINP's yahoo recomendation data done
+SOBI.ST's yahoo recomendation data done
+PHM.MC's yahoo recomendation data done
+ELA's yahoo recomendation data done
+REPX's yahoo recomendation data done
+ASML's yahoo recomendation data done
+WST's yahoo recomendation data done
+EPAM's yahoo recomendation data done
+COLL's yahoo recomendation data done
+NTES's yahoo recomendation data done
+OESX's yahoo recomendation data done
+ICHR's yahoo recomendation data done
+MCHP's yahoo recomendation data done
+BGSF's yahoo recomendation data done
+PHM's yahoo recomendation data done
+AEIS's yahoo recomendation data done
+VST's yahoo recomendation data done
+SEDG's yahoo recomendation data done
+SFM's yahoo recomendation data done
+MYRG's yahoo recomendation data done
+INTU's yahoo recomendation data done
+NVDA's yahoo recomendation data done
+MPWR's yahoo recomendation data done
+TREX's yahoo recomendation data done
+LFC's yahoo recomendation data done
+ZIM's yahoo recomendation data done
+DISCA's yahoo recomendation data done
+DELL's yahoo recomendation data done
+REGI's yahoo recomendation data done
+JAZZ's yahoo recomendation data done
+RCM's yahoo recomendation data done
+MITK's yahoo recomendation data done
+PATK's yahoo recomendation data done
+GOLD's yahoo recomendation data done
+ENPH's yahoo recomendation data done
+SAMG's yahoo recomendation data done
+ERII's yahoo recomendation data done
+DEA's yahoo recomendation data done
+MVBF's yahoo recomendation data done
+DG's yahoo recomendation data done
+DSGX's yahoo recomendation data done
+GSL's yahoo recomendation data done
+ROP's yahoo recomendation data done
+CHGG's yahoo recomendation data done
+HRB's yahoo recomendation data done
+BNL's yahoo recomendation data done
+LZ's yahoo recomendation data done
+COOP's yahoo recomendation data done
+AYX's yahoo recomendation data done
+AVGO's yahoo recomendation data done
+TER's yahoo recomendation data done
+IR's yahoo recomendation data done
+SUI's yahoo recomendation data done
+SHW's yahoo recomendation data done
+REXR's yahoo recomendation data done
+ANSS's yahoo recomendation data done
+ATLC's yahoo recomendation data done
+IIPR's yahoo recomendation data done
+JBHT's yahoo recomendation data done
+UPST's yahoo recomendation data done
+SMG's yahoo recomendation data done
+APT's yahoo recomendation data done
+OPFI's yahoo recomendation data done
+IRBT's yahoo recomendation data done
+COHU's yahoo recomendation data done
+ATRS's yahoo recomendation data done
+NBIX's yahoo recomendation data done
+CWH's yahoo recomendation data done
+MRCY's yahoo recomendation data done
+VICI's yahoo recomendation data done
+OCFC's yahoo recomendation data done
+SAIC's yahoo recomendation data done
+CHCT's yahoo recomendation data done
+FPI's yahoo recomendation data done
+SBFG's yahoo recomendation data done
+CARG's yahoo recomendation data done
+HZO's yahoo recomendation data done
+LEN's yahoo recomendation data done
+VCTR's yahoo recomendation data done
+MGP's yahoo recomendation data done
+SACH's yahoo recomendation data done
+STM's yahoo recomendation data done
+COST's yahoo recomendation data done
+KEYS's yahoo recomendation data done
+FDS's yahoo recomendation data done
+INVH's yahoo recomendation data done
+CCMP's yahoo recomendation data done
+ONTO's yahoo recomendation data done
+FHI's yahoo recomendation data done
+ACN's yahoo recomendation data done
+LRCX's yahoo recomendation data done
+ADV's yahoo recomendation data done
+LGO ticker error processing INFO, Proc has  pass
+TREE's yahoo recomendation data done
+BBCP's yahoo recomendation data done
+SFIX's yahoo recomendation data done
+CORT's yahoo recomendation data done
+TEO's yahoo recomendation data done
+FSFG's yahoo recomendation data done
+WAL's yahoo recomendation data done
+CNOB's yahoo recomendation data done
+SMBK's yahoo recomendation data done
+PNFP's yahoo recomendation data done
+MCB's yahoo recomendation data done
+GNTY's yahoo recomendation data done
+NBHC's yahoo recomendation data done
+PVBC's yahoo recomendation data done
+SMMF's yahoo recomendation data done
+CCB's yahoo recomendation data done
+FFWM's yahoo recomendation data done
+FSBW's yahoo recomendation data done
+NCBS's yahoo recomendation data done
+VBTX's yahoo recomendation data done
+SSB's yahoo recomendation data done
+MNSB's yahoo recomendation data done
+TW's yahoo recomendation data done
+IBKR's yahoo recomendation data done
+EFSC's yahoo recomendation data done
+ABTX's yahoo recomendation data done
+STXB's yahoo recomendation data done
+TOWN's yahoo recomendation data done
+SHLS's yahoo recomendation data done
+LAZY's yahoo recomendation data done
+EVC's yahoo recomendation data done
+ATCO's yahoo recomendation data done
+AAWW's yahoo recomendation data done
+LEGH's yahoo recomendation data done
+ONEW's yahoo recomendation data done
+IT's yahoo recomendation data done
+FIX's yahoo recomendation data done
+GOOS's yahoo recomendation data done
+SAIA's yahoo recomendation data done
+SMBC's yahoo recomendation data done
+CRM's yahoo recomendation data done
+GLBE's yahoo recomendation data done
+ACLS's yahoo recomendation data done
+LH's yahoo recomendation data done
+OPRT's yahoo recomendation data done
+WCC's yahoo recomendation data done
+KFRC's yahoo recomendation data done
+FVCB's yahoo recomendation data done
+MPB's yahoo recomendation data done
+MKSI's yahoo recomendation data done
+ROL's yahoo recomendation data done
+CSGP's yahoo recomendation data done
+SGC's yahoo recomendation data done
+CCS's yahoo recomendation data done
+GFF's yahoo recomendation data done
+ADBE's yahoo recomendation data done
+TMHC's yahoo recomendation data done
+CBOE's yahoo recomendation data done
+GNRC's yahoo recomendation data done
+AIMC's yahoo recomendation data done
+SLP's yahoo recomendation data done
+LOGI's yahoo recomendation data done
+MCO's yahoo recomendation data done
+MSFT's yahoo recomendation data done
+ZTS's yahoo recomendation data done
+TGNA's yahoo recomendation data done
+TTC's yahoo recomendation data done
+GTLS's yahoo recomendation data done
+CUZ's yahoo recomendation data done
+FORM's yahoo recomendation data done
+MEC's yahoo recomendation data done
+ENTG's yahoo recomendation data done
+GMRE's yahoo recomendation data done
+HONE's yahoo recomendation data done
+SASR's yahoo recomendation data done
+STL's yahoo recomendation data done
+CMAX's yahoo recomendation data done
+SCHW's yahoo recomendation data done
+SFNC's yahoo recomendation data done
+FHN's yahoo recomendation data done
+PB's yahoo recomendation data done
+AOMR's yahoo recomendation data done
+DLHC's yahoo recomendation data done
+DAVA's yahoo recomendation data done
+FRHC's yahoo recomendation data done
+HI ticker error processing INFO, Proc has  pass
+BERY ticker error processing INFO, Proc has  pass
+SFST ticker error processing INFO, Proc has  pass
+SNEX ticker error processing INFO, Proc has  pass
+SPWH ticker error processing INFO, Proc has  pass
+ZEPP ticker error processing INFO, Proc has  pass
+MBUU ticker error processing INFO, Proc has  pass
+SUPN ticker error processing INFO, Proc has  pass
+MHO ticker error processing INFO, Proc has  pass
+LOMA ticker error processing INFO, Proc has  pass
+BR ticker error processing INFO, Proc has  pass
+JHG ticker error processing INFO, Proc has  pass
+CASH ticker error processing INFO, Proc has  pass
+HLI ticker error processing INFO, Proc has  pass
+ATH ticker error processing INFO, Proc has  pass
+SFBS ticker error processing INFO, Proc has  pass
+HLNE ticker error processing INFO, Proc has  pass
+SMPL ticker error processing INFO, Proc has  pass
+POOL ticker error processing INFO, Proc has  pass
+CLBK ticker error processing INFO, Proc has  pass
+LAD ticker error processing INFO, Proc has  pass
+STAA ticker error processing INFO, Proc has  pass
+CQP ticker error processing INFO, Proc has  pass
+TROW ticker error processing INFO, Proc has  pass
+UFPI ticker error processing INFO, Proc has  pass
+SNPS ticker error processing INFO, Proc has  pass
+FSV ticker error processing INFO, Proc has  pass
+UCTT ticker error processing INFO, Proc has  pass
+TNC ticker error processing INFO, Proc has  pass
+AXON ticker error processing INFO, Proc has  pass
+STEP ticker error processing INFO, Proc has  pass
+MTH ticker error processing INFO, Proc has  pass
+AMCR ticker error processing INFO, Proc has  pass
+TSCO ticker error processing INFO, Proc has  pass
+AAON ticker error processing INFO, Proc has  pass
+CLR ticker error processing INFO, Proc has  pass
+MCFT ticker error processing INFO, Proc has  pass
+EOG ticker error processing INFO, Proc has  pass
+HCC ticker error processing INFO, Proc has  pass
+ANET ticker error processing INFO, Proc has  pass
+EDN ticker error processing INFO, Proc has  pass
+FBNC ticker error processing INFO, Proc has  pass
+MC ticker error processing INFO, Proc has  pass
+ESQ ticker error processing INFO, Proc has  pass
+EVR ticker error processing INFO, Proc has  pass
+IBCP ticker error processing INFO, Proc has  pass
+CFB ticker error processing INFO, Proc has  pass
+QCRH ticker error processing INFO, Proc has  pass
+BFC ticker error processing INFO, Proc has  pass
+MBCN ticker error processing INFO, Proc has  pass
+BSVN ticker error processing INFO, Proc has  pass
+HBNC ticker error processing INFO, Proc has  pass
+FMAO ticker error processing INFO, Proc has  pass
+SIVB ticker error processing INFO, Proc has  pass
+ERIE ticker error processing INFO, Proc has  pass
+CSWI ticker error processing INFO, Proc has  pass
+NIU ticker error processing INFO, Proc has  pass
+YNDX ticker error processing INFO, Proc has  pass
+NGMS ticker error processing INFO, Proc has  pass
+BMRN ticker error processing INFO, Proc has  pass
+GMAB ticker error processing INFO, Proc has  pass
+IBP ticker error processing INFO, Proc has  pass
+AFYA ticker error processing INFO, Proc has  pass
+SSD ticker error processing INFO, Proc has  pass
+BRO ticker error processing INFO, Proc has  pass
+SYNH ticker error processing INFO, Proc has  pass
+TSLA ticker error processing INFO, Proc has  pass
+VICR ticker error processing INFO, Proc has  pass
+FSI ticker error processing INFO, Proc has  pass
+AVAV ticker error processing INFO, Proc has  pass
+IMXI ticker error processing INFO, Proc has  pass
+PBFX ticker error processing INFO, Proc has  pass
+KMPR ticker error processing INFO, Proc has  pass
+ALRM ticker error processing INFO, Proc has  pass
+ZM ticker error processing INFO, Proc has  pass
+CABO ticker error processing INFO, Proc has  pass
+HQY ticker error processing INFO, Proc has  pass
+RVLV ticker error processing INFO, Proc has  pass
+VCEL ticker error processing INFO, Proc has  pass
+PGNY ticker error processing INFO, Proc has  pass
+GPN ticker error processing INFO, Proc has  pass
+VEEV ticker error processing INFO, Proc has  pass
+MA ticker error processing INFO, Proc has  pass
+FB ticker error processing INFO, Proc has  pass
+ICUI ticker error processing INFO, Proc has  pass
+LCII ticker error processing INFO, Proc has  pass
+PAYC ticker error processing INFO, Proc has  pass
+CMG ticker error processing INFO, Proc has  pass
+BOX ticker error processing INFO, Proc has  pass
+TECH ticker error processing INFO, Proc has  pass
+RYAM ticker error processing INFO, Proc has  pass
+LITE ticker error processing INFO, Proc has  pass
+URI ticker error processing INFO, Proc has  pass
+IDXX ticker error processing INFO, Proc has  pass
+ENV ticker error processing INFO, Proc has  pass
+ETSY ticker error processing INFO, Proc has  pass
+TTD ticker error processing INFO, Proc has  pass
+ICLR ticker error processing INFO, Proc has  pass
+DXCM ticker error processing INFO, Proc has  pass
+OLLI ticker error processing INFO, Proc has  pass
+AMWD ticker error processing INFO, Proc has  pass
+CRSR ticker error processing INFO, Proc has  pass
+STRA ticker error processing INFO, Proc has  pass
+LOPE ticker error processing INFO, Proc has  pass
+VIAC ticker error processing INFO, Proc has  pass
+ENSG ticker error processing INFO, Proc has  pass
+KREF ticker error processing INFO, Proc has  pass
+FTNT ticker error processing INFO, Proc has  pass
+MED ticker error processing INFO, Proc has  pass
+DECK ticker error processing INFO, Proc has  pass
+SWI ticker error processing INFO, Proc has  pass
+ISRG ticker error processing INFO, Proc has  pass
+IS ticker error processing INFO, Proc has  pass
+DRD ticker error processing INFO, Proc has  pass
+CAG ticker error processing INFO, Proc has  pass
+NMIH ticker error processing INFO, Proc has  pass
+WB ticker error processing INFO, Proc has  pass
+PHAR ticker error processing INFO, Proc has  pass
+TPL ticker error processing INFO, Proc has  pass
+HALO ticker error processing INFO, Proc has  pass
+JYNT ticker error processing INFO, Proc has  pass
+VRTX ticker error processing INFO, Proc has  pass
+BSX ticker error processing INFO, Proc has  pass
+WHD ticker error processing INFO, Proc has  pass
+PBH ticker error processing INFO, Proc has  pass
+NICE ticker error processing INFO, Proc has  pass
+NOC ticker error processing INFO, Proc has  pass
+MASI ticker error processing INFO, Proc has  pass
+PCTY ticker error processing INFO, Proc has  pass
+ACGL ticker error processing INFO, Proc has  pass
+NOA ticker error processing INFO, Proc has  pass
+CVS ticker error processing INFO, Proc has  pass
+BPMP ticker error processing INFO, Proc has  pass
+HEI ticker error processing INFO, Proc has  pass
+APPF ticker error processing INFO, Proc has  pass
+RPAY ticker error processing INFO, Proc has  pass
+DPZ ticker error processing INFO, Proc has  pass
+CLF ticker error processing INFO, Proc has  pass
+PRVA ticker error processing INFO, Proc has  pass
+PAY ticker error processing INFO, Proc has  pass
+LESL ticker error processing INFO, Proc has  pass
+SLQT ticker error processing INFO, Proc has  pass
+DV ticker error processing INFO, Proc has  pass
+RLX ticker error processing INFO, Proc has  pass
+DIBS ticker error processing INFO, Proc has  pass
+HNST ticker error processing INFO, Proc has  pass
+APP ticker error processing INFO, Proc has  pass
+HIMS ticker error processing INFO, Proc has  pass
+GDOT ticker error processing INFO, Proc has  pass
+OLED ticker error processing INFO, Proc has  pass
+PAGS ticker error processing INFO, Proc has  pass
+EBS ticker error processing INFO, Proc has  pass
+CANG ticker error processing INFO, Proc has  pass
+SQ ticker error processing INFO, Proc has  pass
+SAFE ticker error processing INFO, Proc has  pass
+PNTG ticker error processing INFO, Proc has  pass
+SHOP ticker error processing INFO, Proc has  pass
+GSHD ticker error processing INFO, Proc has  pass
+KRNT ticker error processing INFO, Proc has  pass
+MIME ticker error processing INFO, Proc has  pass
+RSVR ticker error processing INFO, Proc has  pass
+GTES ticker error processing INFO, Proc has  pass
+VIOT ticker error processing INFO, Proc has  pass
+AGI ticker error processing INFO, Proc has  pass
+LAKE ticker error processing INFO, Proc has  pass
+RFIL ticker error processing INFO, Proc has  pass
+CENTA ticker error processing INFO, Proc has  pass
+AMZN ticker error processing INFO, Proc has  pass
+SGEN ticker error processing INFO, Proc has  pass
+NEM ticker error processing INFO, Proc has  pass
+ABMD ticker error processing INFO, Proc has  pass
+FOXF ticker error processing INFO, Proc has  pass
+WMS ticker error processing INFO, Proc has  pass
+AMED ticker error processing INFO, Proc has  pass
+LHCG ticker error processing INFO, Proc has  pass
+LGND ticker error processing INFO, Proc has  pass
+TME ticker error processing INFO, Proc has  pass
+ADUS ticker error processing INFO, Proc has  pass
+XOMA ticker error processing INFO, Proc has  pass
+TTWO ticker error processing INFO, Proc has  pass
+CRL ticker error processing INFO, Proc has  pass
+CDNA ticker error processing INFO, Proc has  pass
+MNST ticker error processing INFO, Proc has  pass
+CI ticker error processing INFO, Proc has  pass
+IART ticker error processing INFO, Proc has  pass
+MAS ticker error processing INFO, Proc has  pass
+NSSC ticker error processing INFO, Proc has  pass
+ABT ticker error processing INFO, Proc has  pass
+CNC ticker error processing INFO, Proc has  pass
+EW ticker error processing INFO, Proc has  pass
+BTI ticker error processing INFO, Proc has  pass
+PAAS ticker error processing INFO, Proc has  pass
+LMT ticker error processing INFO, Proc has  pass
+TCMD ticker error processing INFO, Proc has  pass
+HASI ticker error processing INFO, Proc has  pass
+LHX ticker error processing INFO, Proc has  pass
+KWR ticker error processing INFO, Proc has  pass
+KDP ticker error processing INFO, Proc has  pass
+MKL ticker error processing INFO, Proc has  pass
+SSRM ticker error processing INFO, Proc has  pass
+RTLR ticker error processing INFO, Proc has  pass
+CENT ticker error processing INFO, Proc has  pass
+EVRG ticker error processing INFO, Proc has  pass
+KL ticker error processing INFO, Proc has  pass
+ETRN ticker error processing INFO, Proc has  pass
+PGR ticker error processing INFO, Proc has  pass
+CSTL ticker error processing INFO, Proc has  pass
+MORF ticker error processing INFO, Proc has  pass
+CODX ticker error processing INFO, Proc has  pass
+EAF ticker error processing INFO, Proc has  pass
+ARNA ticker error processing INFO, Proc has  pass
+OMP ticker error processing INFO, Proc has  pass
+SWIM ticker error processing INFO, Proc has  pass
+VTRU ticker error processing INFO, Proc has  pass
+GLPG ticker error processing INFO, Proc has  pass
+DSP ticker error processing INFO, Proc has  pass
+JAMF ticker error processing INFO, Proc has  pass
+QFIN ticker error processing INFO, Proc has  pass
+FNF ticker error processing INFO, Proc has  pass
+SITE ticker error processing INFO, Proc has  pass
+KNSL ticker error processing INFO, Proc has  pass
+NSIT ticker error processing INFO, Proc has  pass
+UI ticker error processing INFO, Proc has  pass
+CXDO ticker error processing INFO, Proc has  pass
+CHE ticker error processing INFO, Proc has  pass
+JHX ticker error processing INFO, Proc has  pass
+TPB ticker error processing INFO, Proc has  pass
+MSA ticker error processing INFO, Proc has  pass
+NGVT ticker error processing INFO, Proc has  pass
+AUDC ticker error processing INFO, Proc has  pass
+LIN ticker error processing INFO, Proc has  pass
+SMCI ticker error processing INFO, Proc has  pass
+FLGT ticker error processing INFO, Proc has  pass
+RNR ticker error processing INFO, Proc has  pass
+DQ ticker error processing INFO, Proc has  pass
+EXEL ticker error processing INFO, Proc has  pass
+GOOG ticker error processing INFO, Proc has  pass
+GOOGL ticker error processing INFO, Proc has  pass
+QIWI ticker error processing INFO, Proc has  pass
+INMD ticker error processing INFO, Proc has  pass
+MOMO ticker error processing INFO, Proc has  pass
+HZNP ticker error processing INFO, Proc has  pass
+AMEH ticker error processing INFO, Proc has  pass
+ROAD ticker error processing INFO, Proc has  pass
+RMD ticker error processing INFO, Proc has  pass
+STRL ticker error processing INFO, Proc has  pass
+WLK ticker error processing INFO, Proc has  pass
+QLYS ticker error processing INFO, Proc has  pass
+TMO ticker error processing INFO, Proc has  pass
+IAC ticker error processing INFO, Proc has  pass
+XPEL ticker error processing INFO, Proc has  pass
+AMOT ticker error processing INFO, Proc has  pass
+REGN ticker error processing INFO, Proc has  pass
+PINC ticker error processing INFO, Proc has  pass
+PEN ticker error processing INFO, Proc has  pass
+BMA ticker error processing INFO, Proc has  pass
+GGAL ticker error processing INFO, Proc has  pass
+NARI ticker error processing INFO, Proc has  pass
+PATH ticker error processing INFO, Proc has  pass
+LOVE ticker error processing INFO, Proc has  pass
+JFIN ticker error processing INFO, Proc has  pass
+LU ticker error processing INFO, Proc has  pass
+DOYU ticker error processing INFO, Proc has  pass
+GSMG ticker error processing INFO, Proc has  pass
+APPS ticker error processing INFO, Proc has  pass
+INVA ticker error processing INFO, Proc has  pass
+FUTU ticker error processing INFO, Proc has  pass
+VITL ticker error processing INFO, Proc has  pass
+PLMR ticker error processing INFO, Proc has  pass
+NESR ticker error processing INFO, Proc has  pass
+BRMK ticker error processing INFO, Proc has  pass
+SBSW ticker error processing INFO, Proc has  pass
+MAPS ticker error processing INFO, Proc has  pass
+List No 1 Download  finished
+INFO Dowload finished at 2021-12-30 16:22:41.457788
+
+INFO Imp to DB Start at 2021-12-30 16:22:41.504652
+
+DF_YAHOO_RECOMMENDATIONS_IMP import to db succeed
+INFO Imp to DB End at 2021-12-30 16:22:41.817105
+
+etl_web_03_yahoo_recomendation.py is Done
+2021-12-30 16:22:41.817105
+query already declared
+ASC.L's Zacks data error
+WDP.BR's Zacks data error
+SOF.BR's Zacks data error
+SANT.DE's Zacks data error
+DM's Zacks data error
+ASTC's Zacks data error
+POLY.L's Zacks data error
+DIA.MI's Zacks data error
+FXPO.L's Zacks data error
+PMTS's Zacks data error
+WLN.PA's Zacks data error
+SWMA.ST's Zacks data error
+GAMB's Zacks data error
+AVST.L's Zacks data error
+3323.HK's Zacks data error
+SDH's Zacks data error
+0968.HK's Zacks data error
+NEM.DE's Zacks data error
+FKWL's Zacks data error
+NTDOY's Zacks data error
+SMT.L's Zacks data error
+STMP's Zacks data error
+2331.HK's Zacks data error
+OCG's Zacks data error
+HKIB's Zacks data error
+1109.HK's Zacks data error
+ALTA's Zacks data error
+PRAH's Zacks data error
+TRMT's Zacks data error
+SLCT's Zacks data error
+CIH's Zacks data error
+LITB's Zacks data error
+VHC's Zacks data error
+BIM.PA's Zacks data error
+SGRO.L's Zacks data error
+HUIZ's Zacks data error
+TX's Zacks data error
+3968.HK's Zacks data error
+DLTR's Zacks data error
+CTAS's Zacks data error
+TAK's Zacks data error
+INTZ's Zacks data error
+QNST's Zacks data error
+CNF's Zacks data error
+NKTR's Zacks data error
+YALA's Zacks data error
+BLCT's Zacks data error
+LI's Zacks data error
+FSBC's Zacks data error
+PCH's Zacks data error
+FOA's Zacks data error
+BDX's Zacks data error
+LX's Zacks data error
+SID's Zacks data error
+CROX's Zacks data error
+CNCE's Zacks data error
+DHI's Zacks data error
+NVR's Zacks data error
+NVCR's Zacks data error
+ITIC's Zacks data error
+BABA's Zacks data error
+SMLR's Zacks data error
+IDN's Zacks data error
+VNDA's Zacks data error
+SHAK's Zacks data error
+EVBG's Zacks data error
+CSL.AX's Zacks data error
+OLO's Zacks data error
+OLK's Zacks data error
+HEAR's Zacks data error
+ET's Zacks data error
+CRESY's Zacks data error
+CPB's Zacks data error
+CHD's Zacks data error
+SOI's Zacks data error
+MASS's Zacks data error
+OWLT's Zacks data error
+IRMD's Zacks data error
+MRVL's Zacks data error
+FIZZ's Zacks data error
+ISDR's Zacks data error
+RGEN's Zacks data error
+GO's Zacks data error
+VMD's Zacks data error
+GPROFUT.MX's Zacks data error
+LARK's Zacks data error
+UBOH's Zacks data error
+JWEL's Zacks data error
+1585.HK's Zacks data error
+FINV's Zacks data error
+0914.HK's Zacks data error
+SY's Zacks data error
+IPN.PA's Zacks data error
+LFVN's Zacks data error
+TLG.DE's Zacks data error
+TOMZ's Zacks data error
+SAM's Zacks data error
+GDYN's Zacks data error
+BBOX.L's Zacks data error
+STVN's Zacks data error
+VIPS's Zacks data error
+SMSI's Zacks data error
+RGLS's Zacks data error
+UWMC's Zacks data error
+FGBI's Zacks data error
+IONS's Zacks data error
+LGIH's Zacks data error
+BWMX's Zacks data error
+IPW's Zacks data error
+KARO's Zacks data error
+ONTF's Zacks data error
+INNV's Zacks data error
+ABCL's Zacks data error
+FEMY's Zacks data error
+KMDA's Zacks data error
+ATHM's Zacks data error
+ARCE's Zacks data error
+VALE's Zacks data error
+GOTU's Zacks data error
+TRVN's Zacks data error
+ADPT's Zacks data error
+PUBM's Zacks data error
+RMO's Zacks data error
+QDEL's Zacks data error
+KPLT's Zacks data error
+CLVT's Zacks data error
+CRCT's Zacks data error
+VTEX's Zacks data error
+SRT.DE's Zacks data error
+DFH's Zacks data error
+GCBC's Zacks data error
+CRVL's Zacks data error
+FORTY's Zacks data error
+WILC's Zacks data error
+OBCI's Zacks data error
+MSB's Zacks data error
+GRVY's Zacks data error
+AVK's Zacks data error
+ESGR's Zacks data error
+DISCB's Zacks data error
+MORN's Zacks data error
+PDEX's Zacks data error
+EEIQ's Zacks data error
+RILY's Zacks data error
+EDTK's Zacks data error
+BHAT's Zacks data error
+GBS's Zacks data error
+OPY's Zacks data error
+PBHC's Zacks data error
+HIFS's Zacks data error
+SIEB's Zacks data error
+ACNB's Zacks data error
+TSBK's Zacks data error
+PKBK's Zacks data error
+SJ's Zacks data error
+NRC's Zacks data error
+BETS-B.ST's Zacks data error
+IGIC's Zacks data error
+SF.ST's Zacks data error
+HFG.DE's Zacks data error
+BOMN's Zacks data error
+WYY's Zacks data error
+HLG's Zacks data error
+1299.HK's Zacks data error
+LOGN.SW's Zacks data error
+0700.HK's Zacks data error
+INS's Zacks data error
+DISCK's Zacks data error
+ERF.PA's Zacks data error
+ENX.PA's Zacks data error
+SVW.AX's Zacks data error
+JD.L's Zacks data error
+HL.L's Zacks data error
+ASML.AS's Zacks data error
+TEG.DE's Zacks data error
+ALL.AX's Zacks data error
+WOR.AX's Zacks data error
+DSV.CO's Zacks data error
+RMD.AX's Zacks data error
+BC8.DE's Zacks data error
+GTT.PA's Zacks data error
+DIM.PA's Zacks data error
+SIM.CO's Zacks data error
+IG.MI's Zacks data error
+HLMA.L's Zacks data error
+PW's Zacks data error
+TRIG.L's Zacks data error
+HQI's Zacks data error
+SVA's Zacks data error
+BXC's Zacks data error
+ATKR's Zacks data error
+FEVR.L's Zacks data error
+LGL's Zacks data error
+ADSK's Zacks data error
+AMAL's Zacks data error
+AEI's Zacks data error
+FIVE's Zacks data error
+FND's Zacks data error
+NFLX's Zacks data error
+TROX's Zacks data error
+NOW's Zacks data error
+VIRT's Zacks data error
+CMC's Zacks data error
+PKI's Zacks data error
+CAMT's Zacks data error
+GLOB's Zacks data error
+AEL's Zacks data error
+PECO's Zacks data error
+GNSS's Zacks data error
+CBNK's Zacks data error
+YETI's Zacks data error
+OBT's Zacks data error
+ALGN's Zacks data error
+CPRX's Zacks data error
+LULU's Zacks data error
+SGH's Zacks data error
+CPRT's Zacks data error
+ASGN's Zacks data error
+CDNS's Zacks data error
+CNXC's Zacks data error
+KLAC's Zacks data error
+DLTH's Zacks data error
+SBRA's Zacks data error
+EXPI's Zacks data error
+CTRE's Zacks data error
+MKTX's Zacks data error
+EPRT's Zacks data error
+HCA's Zacks data error
+DXC's Zacks data error
+FSS's Zacks data error
+NSP's Zacks data error
+APH's Zacks data error
+SPSC's Zacks data error
+EXPD's Zacks data error
+BUR's Zacks data error
+TYL's Zacks data error
+KNX's Zacks data error
+GTEC's Zacks data error
+GTN's Zacks data error
+SCU's Zacks data error
+MSCI's Zacks data error
+GRMN's Zacks data error
+PRI's Zacks data error
+VZ's Zacks data error
+1810.HK's Zacks data error
+SNX's Zacks data error
+NXST's Zacks data error
+ESNT's Zacks data error
+MPLX's Zacks data error
+BAH's Zacks data error
+COP.DE's Zacks data error
+PPBI's Zacks data error
+AVY's Zacks data error
+SPNS's Zacks data error
+AZPN's Zacks data error
+UTHR's Zacks data error
+HSY's Zacks data error
+CIO's Zacks data error
+TBK's Zacks data error
+HTA's Zacks data error
+LAND's Zacks data error
+TRU's Zacks data error
+BRP's Zacks data error
+EQT's Zacks data error
+NOG's Zacks data error
+FTSI's Zacks data error
+TGS's Zacks data error
+SPWR's Zacks data error
+CVE's Zacks data error
+NTR's Zacks data error
+UBCP's Zacks data error
+CIVB's Zacks data error
+FCCY's Zacks data error
+LPLA's Zacks data error
+FMBH's Zacks data error
+FRBA's Zacks data error
+AUB's Zacks data error
+FBMS's Zacks data error
+BSRR's Zacks data error
+CCNE's Zacks data error
+RBB's Zacks data error
+SBCF's Zacks data error
+SIGA's Zacks data error
+BUSE's Zacks data error
+CVBF's Zacks data error
+IBTX's Zacks data error
+PFBC's Zacks data error
+BFST's Zacks data error
+AMNB's Zacks data error
+TSC's Zacks data error
+GABC's Zacks data error
+FIBK's Zacks data error
+TFC's Zacks data error
+CATC's Zacks data error
+PFHD's Zacks data error
+HBMD's Zacks data error
+UNTY's Zacks data error
+ORRF's Zacks data error
+NTST's Zacks data error
+FIGS's Zacks data error
+COIN's Zacks data error
+ZIP's Zacks data error
+HAYW's Zacks data error
+VINP's Zacks data error
+SOBI.ST's Zacks data error
+PHM.MC's Zacks data error
+ELA's Zacks data error
+REPX's Zacks data error
+ASML's Zacks data error
+WST's Zacks data error
+EPAM's Zacks data error
+COLL's Zacks data error
+NTES's Zacks data error
+OESX's Zacks data error
+ICHR's Zacks data error
+MCHP's Zacks data error
+BGSF's Zacks data error
+PHM's Zacks data error
+AEIS's Zacks data error
+VST's Zacks data error
+SEDG's Zacks data error
+SFM's Zacks data error
+MYRG's Zacks data error
+INTU's Zacks data error
+NVDA's Zacks data error
+MPWR's Zacks data error
+TREX's Zacks data error
+LFC's Zacks data error
+ZIM's Zacks data error
+DISCA's Zacks data error
+DELL's Zacks data error
+REGI's Zacks data error
+JAZZ's Zacks data error
+RCM's Zacks data error
+MITK's Zacks data error
+PATK's Zacks data error
+GOLD's Zacks data error
+ENPH's Zacks data error
+SAMG's Zacks data error
+ERII's Zacks data error
+DEA's Zacks data error
+MVBF's Zacks data error
+DG's Zacks data error
+DSGX's Zacks data error
+GSL's Zacks data error
+ROP's Zacks data error
+CHGG's Zacks data error
+HRB's Zacks data error
+BNL's Zacks data error
+LZ's Zacks data error
+COOP's Zacks data error
+AYX's Zacks data error
+AVGO's Zacks data error
+TER's Zacks data error
+IR's Zacks data error
+SUI's Zacks data error
+SHW's Zacks data error
+REXR's Zacks data error
+ANSS's Zacks data error
+ATLC's Zacks data error
+IIPR's Zacks data error
+JBHT's Zacks data error
+UPST's Zacks data error
+SMG's Zacks data error
+APT's Zacks data error
+OPFI's Zacks data error
+IRBT's Zacks data error
+COHU's Zacks data error
+ATRS's Zacks data error
+NBIX's Zacks data error
+CWH's Zacks data error
+MRCY's Zacks data error
+VICI's Zacks data error
+OCFC's Zacks data error
+SAIC's Zacks data error
+CHCT's Zacks data error
+FPI's Zacks data error
+SBFG's Zacks data error
+CARG's Zacks data error
+HZO's Zacks data error
+LEN's Zacks data error
+VCTR's Zacks data error
+MGP's Zacks data error
+SACH's Zacks data error
+STM's Zacks data error
+COST's Zacks data error
+KEYS's Zacks data error
+FDS's Zacks data error
+INVH's Zacks data error
+CCMP's Zacks data error
+ONTO's Zacks data error
+FHI's Zacks data error
+ACN's Zacks data error
+LRCX's Zacks data error
+ADV's Zacks data error
+LGO's Zacks data error
+TREE's Zacks data error
+BBCP's Zacks data error
+SFIX's Zacks data error
+CORT's Zacks data error
+TEO's Zacks data error
+FSFG's Zacks data error
+WAL's Zacks data error
+CNOB's Zacks data error
+SMBK's Zacks data error
+PNFP's Zacks data error
+MCB's Zacks data error
+GNTY's Zacks data error
+NBHC's Zacks data error
+PVBC's Zacks data error
+SMMF's Zacks data error
+CCB's Zacks data error
+FFWM's Zacks data error
+FSBW's Zacks data error
+NCBS's Zacks data error
+VBTX's Zacks data error
+SSB's Zacks data error
+MNSB's Zacks data error
+TW's Zacks data error
+IBKR's Zacks data error
+EFSC's Zacks data error
+ABTX's Zacks data error
+STXB's Zacks data error
+TOWN's Zacks data error
+SHLS's Zacks data error
+LAZY's Zacks data error
+EVC's Zacks data error
+ATCO's Zacks data error
+AAWW's Zacks data error
+LEGH's Zacks data error
+ONEW's Zacks data error
+IT's Zacks data error
+FIX's Zacks data error
+GOOS's Zacks data error
+SAIA's Zacks data error
+SMBC's Zacks data error
+CRM's Zacks data error
+GLBE's Zacks data error
+ACLS's Zacks data error
+LH's Zacks data error
+OPRT's Zacks data error
+WCC's Zacks data error
+KFRC's Zacks data error
+FVCB's Zacks data error
+MPB's Zacks data error
+MKSI's Zacks data error
+ROL's Zacks data error
+CSGP's Zacks data error
+SGC's Zacks data error
+CCS's Zacks data error
+GFF's Zacks data error
+ADBE's Zacks data error
+TMHC's Zacks data error
+CBOE's Zacks data error
+GNRC's Zacks data error
+AIMC's Zacks data error
+SLP's Zacks data error
+LOGI's Zacks data error
+MCO's Zacks data error
+MSFT's Zacks data error
+ZTS's Zacks data error
+TGNA's Zacks data error
+TTC's Zacks data error
+GTLS's Zacks data error
+CUZ's Zacks data error
+FORM's Zacks data error
+MEC's Zacks data error
+ENTG's Zacks data error
+GMRE's Zacks data error
+HONE's Zacks data error
+SASR's Zacks data error
+STL's Zacks data error
+CMAX's Zacks data error
+SCHW's Zacks data error
+SFNC's Zacks data error
+FHN's Zacks data error
+PB's Zacks data error
+AOMR's Zacks data error
+DLHC's Zacks data error
+DAVA's Zacks data error
+FRHC's Zacks data error
+HI's Zacks data error
+BERY's Zacks data error
+SFST's Zacks data error
+SNEX's Zacks data error
+SPWH's Zacks data error
+ZEPP's Zacks data error
+MBUU's Zacks data error
+SUPN's Zacks data error
+MHO's Zacks data error
+LOMA's Zacks data error
+BR's Zacks data error
+JHG's Zacks data error
+CASH's Zacks data error
+HLI's Zacks data error
+ATH's Zacks data error
+SFBS's Zacks data error
+HLNE's Zacks data error
+SMPL's Zacks data error
+POOL's Zacks data error
+CLBK's Zacks data error
+LAD's Zacks data error
+STAA's Zacks data error
+CQP's Zacks data error
+TROW's Zacks data error
+UFPI's Zacks data error
+SNPS's Zacks data error
+FSV's Zacks data error
+UCTT's Zacks data error
+TNC's Zacks data error
+AXON's Zacks data error
+STEP's Zacks data error
+MTH's Zacks data error
+AMCR's Zacks data error
+TSCO's Zacks data error
+AAON's Zacks data error
+CLR's Zacks data error
+MCFT's Zacks data error
+EOG's Zacks data error
+HCC's Zacks data error
+ANET's Zacks data error
+EDN's Zacks data error
+FBNC's Zacks data error
+MC's Zacks data error
+ESQ's Zacks data error
+EVR's Zacks data error
+IBCP's Zacks data error
+CFB's Zacks data error
+QCRH's Zacks data error
+BFC's Zacks data error
+MBCN's Zacks data error
+BSVN's Zacks data error
+HBNC's Zacks data error
+FMAO's Zacks data error
+SIVB's Zacks data error
+ERIE's Zacks data error
+CSWI's Zacks data error
+NIU's Zacks data error
+YNDX's Zacks data error
+NGMS's Zacks data error
+BMRN's Zacks data error
+GMAB's Zacks data error
+IBP's Zacks data error
+AFYA's Zacks data error
+SSD's Zacks data error
+BRO's Zacks data error
+SYNH's Zacks data error
+TSLA's Zacks data error
+VICR's Zacks data error
+FSI's Zacks data error
+AVAV's Zacks data error
+IMXI's Zacks data error
+PBFX's Zacks data error
+KMPR's Zacks data error
+ALRM's Zacks data error
+ZM's Zacks data error
+CABO's Zacks data error
+HQY's Zacks data error
+RVLV's Zacks data error
+VCEL's Zacks data error
+PGNY's Zacks data error
+GPN's Zacks data error
+VEEV's Zacks data error
+MA's Zacks data error
+FB's Zacks data error
+ICUI's Zacks data error
+LCII's Zacks data error
+PAYC's Zacks data error
+CMG's Zacks data error
+BOX's Zacks data error
+TECH's Zacks data error
+RYAM's Zacks data error
+LITE's Zacks data error
+URI's Zacks data error
+IDXX's Zacks data error
+ENV's Zacks data error
+ETSY's Zacks data error
+TTD's Zacks data error
+ICLR's Zacks data error
+DXCM's Zacks data error
+OLLI's Zacks data error
+AMWD's Zacks data error
+CRSR's Zacks data error
+STRA's Zacks data error
+LOPE's Zacks data error
+VIAC's Zacks data error
+ENSG's Zacks data error
+KREF's Zacks data error
+FTNT's Zacks data error
+MED's Zacks data error
+DECK's Zacks data error
+SWI's Zacks data error
+ISRG's Zacks data error
+IS's Zacks data error
+DRD's Zacks data error
+CAG's Zacks data error
+NMIH's Zacks data error
+WB's Zacks data error
+PHAR's Zacks data error
+TPL's Zacks data error
+HALO's Zacks data error
+JYNT's Zacks data error
+VRTX's Zacks data error
+BSX's Zacks data error
+WHD's Zacks data error
+PBH's Zacks data error
+NICE's Zacks data error
+NOC's Zacks data error
+MASI's Zacks data error
+PCTY's Zacks data error
+ACGL's Zacks data error
+NOA's Zacks data error
+CVS's Zacks data error
+BPMP's Zacks data error
+HEI's Zacks data error
+APPF's Zacks data error
+RPAY's Zacks data error
+DPZ's Zacks data error
+CLF's Zacks data error
+PRVA's Zacks data error
+PAY's Zacks data error
+LESL's Zacks data error
+SLQT's Zacks data error
+DV's Zacks data error
+RLX's Zacks data error
+DIBS's Zacks data error
+HNST's Zacks data error
+APP's Zacks data error
+HIMS's Zacks data error
+GDOT's Zacks data error
+OLED's Zacks data error
+PAGS's Zacks data error
+EBS's Zacks data error
+CANG's Zacks data error
+SQ's Zacks data error
+SAFE's Zacks data error
+PNTG's Zacks data error
+SHOP's Zacks data error
+GSHD's Zacks data error
+KRNT's Zacks data error
+MIME's Zacks data error
+RSVR's Zacks data error
+GTES's Zacks data error
+VIOT's Zacks data error
+AGI's Zacks data error
+LAKE's Zacks data error
+RFIL's Zacks data error
+CENTA's Zacks data error
+AMZN's Zacks data error
+SGEN's Zacks data error
+NEM's Zacks data error
+ABMD's Zacks data error
+FOXF's Zacks data error
+WMS's Zacks data error
+AMED's Zacks data error
+LHCG's Zacks data error
+LGND's Zacks data error
+TME's Zacks data error
+ADUS's Zacks data error
+XOMA's Zacks data error
+TTWO's Zacks data error
+CRL's Zacks data error
+CDNA's Zacks data error
+MNST's Zacks data error
+CI's Zacks data error
+IART's Zacks data error
+MAS's Zacks data error
+NSSC's Zacks data error
+ABT's Zacks data error
+CNC's Zacks data error
+EW's Zacks data error
+BTI's Zacks data error
+PAAS's Zacks data error
+LMT's Zacks data error
+TCMD's Zacks data error
+HASI's Zacks data error
+LHX's Zacks data error
+KWR's Zacks data error
+KDP's Zacks data error
+MKL's Zacks data error
+SSRM's Zacks data error
+RTLR's Zacks data error
+CENT's Zacks data error
+EVRG's Zacks data error
+KL's Zacks data error
+ETRN's Zacks data error
+PGR's Zacks data error
+CSTL's Zacks data error
+MORF's Zacks data error
+CODX's Zacks data error
+EAF's Zacks data error
+ARNA's Zacks data error
+OMP's Zacks data error
+SWIM's Zacks data error
+VTRU's Zacks data error
+GLPG's Zacks data error
+DSP's Zacks data error
+JAMF's Zacks data error
+QFIN's Zacks data error
+FNF's Zacks data error
+SITE's Zacks data error
+KNSL's Zacks data error
+NSIT's Zacks data error
+UI's Zacks data error
+CXDO's Zacks data error
+CHE's Zacks data error
+JHX's Zacks data error
+TPB's Zacks data error
+MSA's Zacks data error
+NGVT's Zacks data error
+AUDC's Zacks data error
+LIN's Zacks data error
+SMCI's Zacks data error
+FLGT's Zacks data error
+RNR's Zacks data error
+DQ's Zacks data error
+EXEL's Zacks data error
+GOOG's Zacks data error
+GOOGL's Zacks data error
+QIWI's Zacks data error
+INMD's Zacks data error
+MOMO's Zacks data error
+HZNP's Zacks data error
+AMEH's Zacks data error
+ROAD's Zacks data error
+RMD's Zacks data error
+STRL's Zacks data error
+WLK's Zacks data error
+QLYS's Zacks data error
+TMO's Zacks data error
+IAC's Zacks data error
+XPEL's Zacks data error
+AMOT's Zacks data error
+REGN's Zacks data error
+PINC's Zacks data error
+PEN's Zacks data error
+BMA's Zacks data error
+GGAL's Zacks data error
+NARI's Zacks data error
+PATH's Zacks data error
+LOVE's Zacks data error
+JFIN's Zacks data error
+LU's Zacks data error
+DOYU's Zacks data error
+GSMG's Zacks data error
+APPS's Zacks data error
+INVA's Zacks data error
+FUTU's Zacks data error
+VITL's Zacks data error
+PLMR's Zacks data error
+NESR's Zacks data error
+BRMK's Zacks data error
+SBSW's Zacks data error
+MAPS's Zacks data error
+DF_ZACKS_INDICATORS import to db succeed
+Zacks H updated
+etl_web_04_zacks_data.py is Done
+2021-12-30 16:22:42.863710
+---------------
+Job Finished at: 16:22:43
+Job Time: 05:22:41.3901295

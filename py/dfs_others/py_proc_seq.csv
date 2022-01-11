@@ -1,0 +1,7 @@
+﻿,proc_id,proc,seq,script
+1,1,daily,1,etl_web_02_yahoo_price_BS_Flags_db.py
+2,1,daily,2,etl_sql_01_r1_daily_update_db.py
+3,2,weekly,1,etl_web_03_yahoo_recomendation.py
+4,2,weekly,2,etl_web_04_zacks_data.py
+5,3,monthly,1,etl_web_01a_yahoo_fundamentals.py
+6,3,monthly,2,etl_web_01b_yahoo_fundamentals_to_db.py

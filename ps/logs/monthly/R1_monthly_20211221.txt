@@ -1,0 +1,761 @@
+Job started at: 20:32:15---------------
+2021-12-21 20:32:18.899428
+query already declared
+RZA folder Already Exists
+RZA ticker df_income_statement file done
+RZA ticker df_balance file done
+RZA ticker df_cash_flow_statement file done
+RZA ticker df_quote_table file done
+RZA ticker df_stats file done
+RZA ticker df_Earnings file done
+RZA ticker error processing dc_analysis_info pass
+RZA Logged at 2021-12-21 20:32:28.482656
+, Counting: 1
+RCB folder Already Exists
+RCB ticker df_income_statement file done
+RCB ticker df_balance file done
+RCB ticker df_cash_flow_statement file done
+RCB ticker df_quote_table file done
+RCB ticker df_stats file done
+RCB ticker df_Earnings file done
+RCB ticker error processing dc_analysis_info pass
+RCB Logged at 2021-12-21 20:32:38.129484
+, Counting: 2
+PTRA folder Already Exists
+PTRA ticker df_income_statement file done
+PTRA ticker df_balance file done
+PTRA ticker df_cash_flow_statement file done
+PTRA ticker df_quote_table file done
+PTRA ticker df_stats file done
+PTRA ticker df_Earnings file done
+PTRA dc_analysis_info done
+PTRA Logged at 2021-12-21 20:32:49.329288
+, Counting: 3
+PME folder Already Exists
+PME ticker df_income_statement file done
+PME ticker df_balance file done
+PME ticker df_cash_flow_statement file done
+PME ticker df_quote_table file done
+PME ticker df_stats file done
+PME ticker df_Earnings file done
+PME dc_analysis_info done
+PME Logged at 2021-12-21 20:32:59.348961
+, Counting: 4
+PBTS folder Already Exists
+PBTS ticker df_income_statement file done
+PBTS ticker df_balance file done
+PBTS ticker df_cash_flow_statement file done
+PBTS ticker df_quote_table file done
+PBTS ticker df_stats file done
+PBTS ticker df_Earnings file done
+PBTS dc_analysis_info done
+PBTS Logged at 2021-12-21 20:33:09.419922
+, Counting: 5
+PALI folder Already Exists
+PALI ticker df_income_statement file done
+PALI ticker df_balance file done
+PALI ticker df_cash_flow_statement file done
+PALI ticker df_quote_table file done
+PALI ticker df_stats file done
+PALI ticker df_Earnings file done
+PALI dc_analysis_info done
+PALI Logged at 2021-12-21 20:33:20.031104
+, Counting: 6
+OXBRW folder Already Exists
+OXBRW ticker df_income_statement file done
+OXBRW ticker df_balance file done
+OXBRW ticker df_cash_flow_statement file done
+OXBRW ticker df_quote_table file done
+OXBRW ticker df_stats file done
+OXBRW ticker df_Earnings file done
+OXBRW ticker error processing dc_analysis_info pass
+OXBRW Logged at 2021-12-21 20:33:30.174495
+, Counting: 7
+OPINL folder Already Exists
+OPINL ticker df_income_statement file done
+OPINL ticker df_balance file done
+OPINL ticker df_cash_flow_statement file done
+OPINL ticker df_quote_table file done
+OPINL ticker df_stats file done
+OPINL ticker df_Earnings file done
+OPINL ticker error processing dc_analysis_info pass
+OPINL Logged at 2021-12-21 20:33:40.128773
+, Counting: 8
+OFSSG folder Already Exists
+OFSSG ticker error processing df_income_statement pass
+OFSSG ticker df_balance file done
+OFSSG ticker error processing df_cash_flow_statement pass
+OFSSG ticker error processing df_quote_table pass
+OFSSG ticker error processing df_stats pass
+OFSSG ticker df_Earnings file done
+OFSSG ticker error processing dc_analysis_info pass
+OFSSG Logged at 2021-12-21 20:33:50.525884
+, Counting: 9
+NSS folder Already Exists
+NSS ticker df_income_statement file done
+NSS ticker df_balance file done
+NSS ticker df_cash_flow_statement file done
+NSS ticker df_quote_table file done
+NSS ticker df_stats file done
+NSS ticker df_Earnings file done
+NSS ticker error processing dc_analysis_info pass
+NSS Logged at 2021-12-21 20:34:00.967987
+, Counting: 10
+JT folder Already Exists
+JT ticker df_income_statement file done
+JT ticker df_balance file done
+JT ticker df_cash_flow_statement file done
+JT ticker df_quote_table file done
+JT ticker df_stats file done
+JT ticker df_Earnings file done
+JT dc_analysis_info done
+JT Logged at 2021-12-21 20:34:11.234541
+, Counting: 11
+JRJC folder Already Exists
+JRJC ticker df_income_statement file done
+JRJC ticker df_balance file done
+JRJC ticker df_cash_flow_statement file done
+JRJC ticker df_quote_table file done
+JRJC ticker df_stats file done
+JRJC ticker df_Earnings file done
+JRJC dc_analysis_info done
+JRJC Logged at 2021-12-21 20:34:21.193923
+, Counting: 12
+HIVE folder Already Exists
+HIVE ticker df_income_statement file done
+HIVE ticker df_balance file done
+HIVE ticker df_cash_flow_statement file done
+HIVE ticker df_quote_table file done
+HIVE ticker df_stats file done
+HIVE ticker df_Earnings file done
+HIVE ticker error processing dc_analysis_info pass
+HIVE Logged at 2021-12-21 20:34:31.096453
+, Counting: 13
+GWGH folder Already Exists
+GWGH ticker df_income_statement file done
+GWGH ticker df_balance file done
+GWGH ticker df_cash_flow_statement file done
+GWGH ticker df_quote_table file done
+GWGH ticker df_stats file done
+GWGH ticker df_Earnings file done
+GWGH dc_analysis_info done
+GWGH Logged at 2021-12-21 20:34:41.057699
+, Counting: 14
+GOEVW folder Already Exists
+GOEVW ticker df_income_statement file done
+GOEVW ticker df_balance file done
+GOEVW ticker df_cash_flow_statement file done
+GOEVW ticker df_quote_table file done
+GOEVW ticker df_stats file done
+GOEVW ticker df_Earnings file done
+GOEVW ticker error processing dc_analysis_info pass
+GOEVW Logged at 2021-12-21 20:34:51.030967
+, Counting: 15
+GAINN folder Already Exists
+GAINN ticker df_income_statement file done
+GAINN ticker df_balance file done
+GAINN ticker df_cash_flow_statement file done
+GAINN ticker df_quote_table file done
+GAINN ticker df_stats file done
+GAINN ticker df_Earnings file done
+GAINN ticker error processing dc_analysis_info pass
+GAINN Logged at 2021-12-21 20:35:00.960471
+, Counting: 16
+ESGC folder Already Exists
+ESGC ticker df_income_statement file done
+ESGC ticker df_balance file done
+ESGC ticker df_cash_flow_statement file done
+ESGC ticker df_quote_table file done
+ESGC ticker df_stats file done
+ESGC ticker df_Earnings file done
+ESGC dc_analysis_info done
+ESGC Logged at 2021-12-21 20:35:11.205152
+, Counting: 17
+DCOMP folder Already Exists
+DCOMP ticker df_income_statement file done
+DCOMP ticker df_balance file done
+DCOMP ticker df_cash_flow_statement file done
+DCOMP ticker df_quote_table file done
+DCOMP ticker df_stats file done
+DCOMP ticker df_Earnings file done
+DCOMP ticker error processing dc_analysis_info pass
+DCOMP Logged at 2021-12-21 20:35:20.967773
+, Counting: 18
+CXDC folder Already Exists
+CXDC ticker df_income_statement file done
+CXDC ticker df_balance file done
+CXDC ticker df_cash_flow_statement file done
+CXDC ticker df_quote_table file done
+CXDC ticker df_stats file done
+CXDC ticker df_Earnings file done
+CXDC dc_analysis_info done
+CXDC Logged at 2021-12-21 20:35:30.999720
+, Counting: 19
+BSA folder Already Exists
+BSA ticker df_income_statement file done
+BSA ticker df_balance file done
+BSA ticker df_cash_flow_statement file done
+BSA ticker df_quote_table file done
+BSA ticker df_stats file done
+BSA ticker df_Earnings file done
+BSA ticker error processing dc_analysis_info pass
+BSA Logged at 2021-12-21 20:35:40.791512
+, Counting: 20
+BCACU folder Already Exists
+BCACU ticker df_income_statement file done
+BCACU ticker df_balance file done
+BCACU ticker df_cash_flow_statement file done
+BCACU ticker df_quote_table file done
+BCACU ticker df_stats file done
+BCACU ticker df_Earnings file done
+BCACU ticker error processing dc_analysis_info pass
+BCACU Logged at 2021-12-21 20:35:51.275585
+, Counting: 21
+ATNF folder Already Exists
+ATNF ticker df_income_statement file done
+ATNF ticker df_balance file done
+ATNF ticker df_cash_flow_statement file done
+ATNF ticker df_quote_table file done
+ATNF ticker df_stats file done
+ATNF ticker df_Earnings file done
+ATNF dc_analysis_info done
+ATNF Logged at 2021-12-21 20:36:00.959803
+, Counting: 22
+AFGE folder Already Exists
+AFGE ticker df_income_statement file done
+AFGE ticker df_balance file done
+AFGE ticker df_cash_flow_statement file done
+AFGE ticker df_quote_table file done
+AFGE ticker df_stats file done
+AFGE ticker df_Earnings file done
+AFGE ticker error processing dc_analysis_info pass
+AFGE Logged at 2021-12-21 20:36:11.628370
+, Counting: 23
+AFGD folder Already Exists
+AFGD ticker df_income_statement file done
+AFGD ticker df_balance file done
+AFGD ticker df_cash_flow_statement file done
+AFGD ticker df_quote_table file done
+AFGD ticker df_stats file done
+AFGD ticker df_Earnings file done
+AFGD ticker error processing dc_analysis_info pass
+AFGD Logged at 2021-12-21 20:36:21.222492
+, Counting: 24
+AEHL folder Already Exists
+AEHL ticker df_income_statement file done
+AEHL ticker df_balance file done
+AEHL ticker df_cash_flow_statement file done
+AEHL ticker df_quote_table file done
+AEHL ticker df_stats file done
+AEHL ticker df_Earnings file done
+AEHL dc_analysis_info done
+AEHL Logged at 2021-12-21 20:36:31.451522
+, Counting: 25
+WNW folder Already Exists
+WNW ticker df_income_statement file done
+WNW ticker df_balance file done
+WNW ticker df_cash_flow_statement file done
+WNW ticker df_quote_table file done
+WNW ticker df_stats file done
+WNW ticker df_Earnings file done
+WNW ticker error processing dc_analysis_info pass
+WNW Logged at 2021-12-21 20:36:41.846376
+, Counting: 26
+SHIPW folder Already Exists
+SHIPW ticker df_income_statement file done
+SHIPW ticker df_balance file done
+SHIPW ticker df_cash_flow_statement file done
+SHIPW ticker df_quote_table file done
+SHIPW ticker df_stats file done
+SHIPW ticker df_Earnings file done
+SHIPW ticker error processing dc_analysis_info pass
+SHIPW Logged at 2021-12-21 20:36:52.577720
+, Counting: 27
+LMRKP folder Already Exists
+LMRKP ticker df_income_statement file done
+LMRKP ticker df_balance file done
+LMRKP ticker df_cash_flow_statement file done
+LMRKP ticker df_quote_table file done
+LMRKP ticker df_stats file done
+LMRKP ticker df_Earnings file done
+LMRKP ticker error processing dc_analysis_info pass
+LMRKP Logged at 2021-12-21 20:37:02.988163
+, Counting: 28
+LMRKO folder Already Exists
+LMRKO ticker df_income_statement file done
+LMRKO ticker df_balance file done
+LMRKO ticker df_cash_flow_statement file done
+LMRKO ticker df_quote_table file done
+LMRKO ticker df_stats file done
+LMRKO ticker df_Earnings file done
+LMRKO ticker error processing dc_analysis_info pass
+LMRKO Logged at 2021-12-21 20:37:25.052762
+, Counting: 29
+LMRKN folder Already Exists
+LMRKN ticker df_income_statement file done
+LMRKN ticker df_balance file done
+LMRKN ticker df_cash_flow_statement file done
+LMRKN ticker df_quote_table file done
+LMRKN ticker df_stats file done
+LMRKN ticker df_Earnings file done
+LMRKN ticker error processing dc_analysis_info pass
+LMRKN Logged at 2021-12-21 20:37:50.943720
+, Counting: 30
+SHCR folder Already Exists
+SHCR ticker df_income_statement file done
+SHCR ticker df_balance file done
+SHCR ticker df_cash_flow_statement file done
+SHCR ticker df_quote_table file done
+SHCR ticker df_stats file done
+SHCR ticker df_Earnings file done
+SHCR dc_analysis_info done
+SHCR Logged at 2021-12-21 20:38:20.263972
+, Counting: 31
+SECO folder Already Exists
+SECO ticker df_income_statement file done
+SECO ticker df_balance file done
+SECO ticker df_cash_flow_statement file done
+SECO ticker df_quote_table file done
+SECO ticker df_stats file done
+SECO ticker df_Earnings file done
+SECO dc_analysis_info done
+SECO Logged at 2021-12-21 20:38:46.272855
+, Counting: 32
+CANO folder Already Exists
+CANO ticker df_income_statement file done
+CANO ticker df_balance file done
+CANO ticker df_cash_flow_statement file done
+CANO ticker df_quote_table file done
+CANO ticker df_stats file done
+CANO ticker df_Earnings file done
+CANO dc_analysis_info done
+CANO Logged at 2021-12-21 20:39:10.815118
+, Counting: 33
+BTX folder Already Exists
+BTX ticker df_income_statement file done
+BTX ticker df_balance file done
+BTX ticker df_cash_flow_statement file done
+BTX ticker df_quote_table file done
+BTX ticker df_stats file done
+BTX ticker df_Earnings file done
+BTX ticker error processing dc_analysis_info pass
+BTX Logged at 2021-12-21 20:39:35.267307
+, Counting: 34
+MEGACPO.MX folder Already Exists
+MEGACPO.MX ticker df_income_statement file done
+MEGACPO.MX ticker df_balance file done
+MEGACPO.MX ticker df_cash_flow_statement file done
+MEGACPO.MX ticker df_quote_table file done
+MEGACPO.MX ticker df_stats file done
+MEGACPO.MX ticker df_Earnings file done
+MEGACPO.MX dc_analysis_info done
+MEGACPO.MX Logged at 2021-12-21 20:39:59.977062
+, Counting: 35
+DCOM folder Already Exists
+DCOM ticker df_income_statement file done
+DCOM ticker df_balance file done
+DCOM ticker error processing df_cash_flow_statement pass
+DCOM ticker df_quote_table file done
+DCOM ticker error processing df_stats pass
+DCOM ticker df_Earnings file done
+DCOM dc_analysis_info done
+DCOM Logged at 2021-12-21 20:40:29.495752
+, Counting: 36
+etl_web_01a_yahoo_fundamentals.py is Done
+2021-12-21 20:40:32.499933
+query already declared
+df_income_statement RZA file fase 1  imported
+df_balance RZA file fase 1  imported
+df_cash_flow_statement RZA file fase 1  imported
+df_quote_table RZA file fase 1  imported
+df_earnings_q_results RZA file fase 1  imported
+df_earnings_q_revenue RZA file fase 1  imported
+df_earnings_y_revenue RZA file fase 1  imported
+df_growth_est RZA error processing  and passed
+df_income_statement RCB file fase 1  imported
+df_balance RCB file fase 1  imported
+df_cash_flow_statement RCB file fase 1  imported
+df_quote_table RCB file fase 1  imported
+df_earnings_q_results RCB file fase 1  imported
+df_earnings_q_revenue RCB file fase 1  imported
+df_earnings_y_revenue RCB file fase 1  imported
+df_growth_est RCB error processing  and passed
+df_income_statement PTRA file fase 1  imported
+df_balance PTRA file fase 1  imported
+df_cash_flow_statement PTRA file fase 1  imported
+df_quote_table PTRA file fase 1  imported
+df_earnings_q_results PTRA file fase 1  imported
+df_earnings_q_revenue PTRA file fase 1  imported
+df_earnings_y_revenue PTRA file fase 1  imported
+df_growth_est PTRA file fase 1  imported
+df_revenue_est PTRA file fase 1  imported
+df_earnings_est PTRA file fase 1  imported
+df_earnings_hist PTRA file fase 1  imported
+df_eps_trend PTRA file fase 1  imported
+df_stats PTRA file fase 1  imported
+df_income_statement PME file fase 1  imported
+df_balance PME file fase 1  imported
+df_cash_flow_statement PME file fase 1  imported
+df_quote_table PME file fase 1  imported
+df_earnings_q_results PME file fase 1  imported
+df_earnings_q_revenue PME file fase 1  imported
+df_earnings_y_revenue PME file fase 1  imported
+df_growth_est PME file fase 1  imported
+df_revenue_est PME file fase 1  imported
+df_earnings_est PME file fase 1  imported
+df_earnings_hist PME file fase 1  imported
+df_eps_trend PME file fase 1  imported
+df_stats PME file fase 1  imported
+df_income_statement PBTS file fase 1  imported
+df_balance PBTS file fase 1  imported
+df_cash_flow_statement PBTS file fase 1  imported
+df_quote_table PBTS file fase 1  imported
+df_earnings_q_results PBTS file fase 1  imported
+df_earnings_q_revenue PBTS file fase 1  imported
+df_earnings_y_revenue PBTS file fase 1  imported
+df_growth_est PBTS file fase 1  imported
+df_revenue_est PBTS file fase 1  imported
+df_earnings_est PBTS file fase 1  imported
+df_earnings_hist PBTS file fase 1  imported
+df_eps_trend PBTS file fase 1  imported
+df_stats PBTS file fase 1  imported
+df_income_statement PALI file fase 1  imported
+df_balance PALI file fase 1  imported
+df_cash_flow_statement PALI file fase 1  imported
+df_quote_table PALI file fase 1  imported
+df_earnings_q_results PALI file fase 1  imported
+df_earnings_q_revenue PALI file fase 1  imported
+df_earnings_y_revenue PALI file fase 1  imported
+df_growth_est PALI file fase 1  imported
+df_revenue_est PALI file fase 1  imported
+df_earnings_est PALI file fase 1  imported
+df_earnings_hist PALI file fase 1  imported
+df_eps_trend PALI file fase 1  imported
+df_stats PALI file fase 1  imported
+df_income_statement OXBRW file fase 1  imported
+df_balance OXBRW file fase 1  imported
+df_cash_flow_statement OXBRW file fase 1  imported
+df_quote_table OXBRW file fase 1  imported
+df_earnings_q_results OXBRW file fase 1  imported
+df_earnings_q_revenue OXBRW file fase 1  imported
+df_earnings_y_revenue OXBRW file fase 1  imported
+df_growth_est OXBRW error processing  and passed
+df_income_statement OPINL file fase 1  imported
+df_balance OPINL file fase 1  imported
+df_cash_flow_statement OPINL file fase 1  imported
+df_quote_table OPINL file fase 1  imported
+df_earnings_q_results OPINL file fase 1  imported
+df_earnings_q_revenue OPINL file fase 1  imported
+df_earnings_y_revenue OPINL file fase 1  imported
+df_growth_est OPINL error processing  and passed
+df_income_statement OFSSG file fase 1  imported
+df_balance OFSSG file fase 1  imported
+df_cash_flow_statement OFSSG file fase 1  imported
+df_quote_table OFSSG file fase 1  imported
+df_earnings_q_results OFSSG file fase 1  imported
+df_earnings_q_revenue OFSSG file fase 1  imported
+df_earnings_y_revenue OFSSG file fase 1  imported
+df_growth_est OFSSG error processing  and passed
+df_income_statement NSS file fase 1  imported
+df_balance NSS file fase 1  imported
+df_cash_flow_statement NSS file fase 1  imported
+df_quote_table NSS file fase 1  imported
+df_earnings_q_results NSS file fase 1  imported
+df_earnings_q_revenue NSS file fase 1  imported
+df_earnings_y_revenue NSS file fase 1  imported
+df_growth_est NSS error processing  and passed
+df_income_statement JT file fase 1  imported
+df_balance JT file fase 1  imported
+df_cash_flow_statement JT file fase 1  imported
+df_quote_table JT file fase 1  imported
+df_earnings_q_results JT file fase 1  imported
+df_earnings_q_revenue JT file fase 1  imported
+df_earnings_y_revenue JT file fase 1  imported
+df_growth_est JT file fase 1  imported
+df_revenue_est JT file fase 1  imported
+df_earnings_est JT file fase 1  imported
+df_earnings_hist JT file fase 1  imported
+df_eps_trend JT file fase 1  imported
+df_stats JT file fase 1  imported
+df_income_statement JRJC file fase 1  imported
+df_balance JRJC file fase 1  imported
+df_cash_flow_statement JRJC file fase 1  imported
+df_quote_table JRJC file fase 1  imported
+df_earnings_q_results JRJC file fase 1  imported
+df_earnings_q_revenue JRJC file fase 1  imported
+df_earnings_y_revenue JRJC file fase 1  imported
+df_growth_est JRJC file fase 1  imported
+df_revenue_est JRJC file fase 1  imported
+df_earnings_est JRJC file fase 1  imported
+df_earnings_hist JRJC file fase 1  imported
+df_eps_trend JRJC file fase 1  imported
+df_stats JRJC file fase 1  imported
+df_income_statement HIVE file fase 1  imported
+df_balance HIVE file fase 1  imported
+df_cash_flow_statement HIVE file fase 1  imported
+df_quote_table HIVE file fase 1  imported
+df_earnings_q_results HIVE file fase 1  imported
+df_earnings_q_revenue HIVE file fase 1  imported
+df_earnings_y_revenue HIVE file fase 1  imported
+df_growth_est HIVE error processing  and passed
+df_income_statement GWGH file fase 1  imported
+df_balance GWGH file fase 1  imported
+df_cash_flow_statement GWGH file fase 1  imported
+df_quote_table GWGH file fase 1  imported
+df_earnings_q_results GWGH file fase 1  imported
+df_earnings_q_revenue GWGH file fase 1  imported
+df_earnings_y_revenue GWGH file fase 1  imported
+df_growth_est GWGH file fase 1  imported
+df_revenue_est GWGH file fase 1  imported
+df_earnings_est GWGH file fase 1  imported
+df_earnings_hist GWGH file fase 1  imported
+df_eps_trend GWGH file fase 1  imported
+df_stats GWGH file fase 1  imported
+df_income_statement GOEVW file fase 1  imported
+df_balance GOEVW file fase 1  imported
+df_cash_flow_statement GOEVW file fase 1  imported
+df_quote_table GOEVW file fase 1  imported
+df_earnings_q_results GOEVW file fase 1  imported
+df_earnings_q_revenue GOEVW file fase 1  imported
+df_earnings_y_revenue GOEVW file fase 1  imported
+df_growth_est GOEVW error processing  and passed
+df_income_statement GAINN file fase 1  imported
+df_balance GAINN file fase 1  imported
+df_cash_flow_statement GAINN file fase 1  imported
+df_quote_table GAINN file fase 1  imported
+df_earnings_q_results GAINN file fase 1  imported
+df_earnings_q_revenue GAINN file fase 1  imported
+df_earnings_y_revenue GAINN file fase 1  imported
+df_growth_est GAINN error processing  and passed
+df_income_statement ESGC file fase 1  imported
+df_balance ESGC file fase 1  imported
+df_cash_flow_statement ESGC file fase 1  imported
+df_quote_table ESGC file fase 1  imported
+df_earnings_q_results ESGC file fase 1  imported
+df_earnings_q_revenue ESGC file fase 1  imported
+df_earnings_y_revenue ESGC file fase 1  imported
+df_growth_est ESGC file fase 1  imported
+df_revenue_est ESGC file fase 1  imported
+df_earnings_est ESGC file fase 1  imported
+df_earnings_hist ESGC file fase 1  imported
+df_eps_trend ESGC file fase 1  imported
+df_stats ESGC file fase 1  imported
+df_income_statement DCOMP file fase 1  imported
+df_balance DCOMP file fase 1  imported
+df_cash_flow_statement DCOMP file fase 1  imported
+df_quote_table DCOMP file fase 1  imported
+df_earnings_q_results DCOMP file fase 1  imported
+df_earnings_q_revenue DCOMP file fase 1  imported
+df_earnings_y_revenue DCOMP file fase 1  imported
+df_growth_est DCOMP error processing  and passed
+df_income_statement CXDC file fase 1  imported
+df_balance CXDC file fase 1  imported
+df_cash_flow_statement CXDC file fase 1  imported
+df_quote_table CXDC file fase 1  imported
+df_earnings_q_results CXDC file fase 1  imported
+df_earnings_q_revenue CXDC file fase 1  imported
+df_earnings_y_revenue CXDC file fase 1  imported
+df_growth_est CXDC file fase 1  imported
+df_revenue_est CXDC file fase 1  imported
+df_earnings_est CXDC file fase 1  imported
+df_earnings_hist CXDC file fase 1  imported
+df_eps_trend CXDC file fase 1  imported
+df_stats CXDC file fase 1  imported
+df_income_statement BSA file fase 1  imported
+df_balance BSA file fase 1  imported
+df_cash_flow_statement BSA file fase 1  imported
+df_quote_table BSA file fase 1  imported
+df_earnings_q_results BSA file fase 1  imported
+df_earnings_q_revenue BSA file fase 1  imported
+df_earnings_y_revenue BSA file fase 1  imported
+df_growth_est BSA error processing  and passed
+df_income_statement BCACU file fase 1  imported
+df_balance BCACU file fase 1  imported
+df_cash_flow_statement BCACU file fase 1  imported
+df_quote_table BCACU file fase 1  imported
+df_earnings_q_results BCACU file fase 1  imported
+df_earnings_q_revenue BCACU file fase 1  imported
+df_earnings_y_revenue BCACU file fase 1  imported
+df_growth_est BCACU error processing  and passed
+df_income_statement ATNF file fase 1  imported
+df_balance ATNF file fase 1  imported
+df_cash_flow_statement ATNF file fase 1  imported
+df_quote_table ATNF file fase 1  imported
+df_earnings_q_results ATNF file fase 1  imported
+df_earnings_q_revenue ATNF file fase 1  imported
+df_earnings_y_revenue ATNF file fase 1  imported
+df_growth_est ATNF file fase 1  imported
+df_revenue_est ATNF file fase 1  imported
+df_earnings_est ATNF file fase 1  imported
+df_earnings_hist ATNF file fase 1  imported
+df_eps_trend ATNF file fase 1  imported
+df_stats ATNF file fase 1  imported
+df_income_statement AFGE file fase 1  imported
+df_balance AFGE file fase 1  imported
+df_cash_flow_statement AFGE file fase 1  imported
+df_quote_table AFGE file fase 1  imported
+df_earnings_q_results AFGE file fase 1  imported
+df_earnings_q_revenue AFGE file fase 1  imported
+df_earnings_y_revenue AFGE file fase 1  imported
+df_growth_est AFGE error processing  and passed
+df_income_statement AFGD file fase 1  imported
+df_balance AFGD file fase 1  imported
+df_cash_flow_statement AFGD file fase 1  imported
+df_quote_table AFGD file fase 1  imported
+df_earnings_q_results AFGD file fase 1  imported
+df_earnings_q_revenue AFGD file fase 1  imported
+df_earnings_y_revenue AFGD file fase 1  imported
+df_growth_est AFGD error processing  and passed
+df_income_statement AEHL file fase 1  imported
+df_balance AEHL file fase 1  imported
+df_cash_flow_statement AEHL file fase 1  imported
+df_quote_table AEHL file fase 1  imported
+df_earnings_q_results AEHL file fase 1  imported
+df_earnings_q_revenue AEHL file fase 1  imported
+df_earnings_y_revenue AEHL file fase 1  imported
+df_growth_est AEHL file fase 1  imported
+df_revenue_est AEHL file fase 1  imported
+df_earnings_est AEHL file fase 1  imported
+df_earnings_hist AEHL file fase 1  imported
+df_eps_trend AEHL file fase 1  imported
+df_stats AEHL file fase 1  imported
+df_income_statement WNW file fase 1  imported
+df_balance WNW file fase 1  imported
+df_cash_flow_statement WNW file fase 1  imported
+df_quote_table WNW file fase 1  imported
+df_earnings_q_results WNW file fase 1  imported
+df_earnings_q_revenue WNW file fase 1  imported
+df_earnings_y_revenue WNW file fase 1  imported
+df_growth_est WNW error processing  and passed
+df_income_statement SHIPW file fase 1  imported
+df_balance SHIPW file fase 1  imported
+df_cash_flow_statement SHIPW file fase 1  imported
+df_quote_table SHIPW file fase 1  imported
+df_earnings_q_results SHIPW file fase 1  imported
+df_earnings_q_revenue SHIPW file fase 1  imported
+df_earnings_y_revenue SHIPW file fase 1  imported
+df_growth_est SHIPW error processing  and passed
+df_income_statement LMRKP file fase 1  imported
+df_balance LMRKP file fase 1  imported
+df_cash_flow_statement LMRKP file fase 1  imported
+df_quote_table LMRKP file fase 1  imported
+df_earnings_q_results LMRKP file fase 1  imported
+df_earnings_q_revenue LMRKP file fase 1  imported
+df_earnings_y_revenue LMRKP file fase 1  imported
+df_growth_est LMRKP error processing  and passed
+df_income_statement LMRKO file fase 1  imported
+df_balance LMRKO file fase 1  imported
+df_cash_flow_statement LMRKO file fase 1  imported
+df_quote_table LMRKO file fase 1  imported
+df_earnings_q_results LMRKO file fase 1  imported
+df_earnings_q_revenue LMRKO file fase 1  imported
+df_earnings_y_revenue LMRKO file fase 1  imported
+df_growth_est LMRKO error processing  and passed
+df_income_statement LMRKN file fase 1  imported
+df_balance LMRKN file fase 1  imported
+df_cash_flow_statement LMRKN file fase 1  imported
+df_quote_table LMRKN file fase 1  imported
+df_earnings_q_results LMRKN file fase 1  imported
+df_earnings_q_revenue LMRKN file fase 1  imported
+df_earnings_y_revenue LMRKN file fase 1  imported
+df_growth_est LMRKN error processing  and passed
+df_income_statement SHCR file fase 1  imported
+df_balance SHCR file fase 1  imported
+df_cash_flow_statement SHCR file fase 1  imported
+df_quote_table SHCR file fase 1  imported
+df_earnings_q_results SHCR file fase 1  imported
+df_earnings_q_revenue SHCR file fase 1  imported
+df_earnings_y_revenue SHCR file fase 1  imported
+df_growth_est SHCR file fase 1  imported
+df_revenue_est SHCR file fase 1  imported
+df_earnings_est SHCR file fase 1  imported
+df_earnings_hist SHCR file fase 1  imported
+df_eps_trend SHCR file fase 1  imported
+df_stats SHCR file fase 1  imported
+df_income_statement SECO file fase 1  imported
+df_balance SECO file fase 1  imported
+df_cash_flow_statement SECO file fase 1  imported
+df_quote_table SECO file fase 1  imported
+df_earnings_q_results SECO file fase 1  imported
+df_earnings_q_revenue SECO file fase 1  imported
+df_earnings_y_revenue SECO file fase 1  imported
+df_growth_est SECO file fase 1  imported
+df_revenue_est SECO file fase 1  imported
+df_earnings_est SECO file fase 1  imported
+df_earnings_hist SECO file fase 1  imported
+df_eps_trend SECO file fase 1  imported
+df_stats SECO file fase 1  imported
+df_income_statement CANO file fase 1  imported
+df_balance CANO file fase 1  imported
+df_cash_flow_statement CANO file fase 1  imported
+df_quote_table CANO file fase 1  imported
+df_earnings_q_results CANO file fase 1  imported
+df_earnings_q_revenue CANO file fase 1  imported
+df_earnings_y_revenue CANO file fase 1  imported
+df_growth_est CANO file fase 1  imported
+df_revenue_est CANO file fase 1  imported
+df_earnings_est CANO file fase 1  imported
+df_earnings_hist CANO file fase 1  imported
+df_eps_trend CANO file fase 1  imported
+df_stats CANO file fase 1  imported
+df_income_statement BTX file fase 1  imported
+df_balance BTX file fase 1  imported
+df_cash_flow_statement BTX file fase 1  imported
+df_quote_table BTX file fase 1  imported
+df_earnings_q_results BTX file fase 1  imported
+df_earnings_q_revenue BTX file fase 1  imported
+df_earnings_y_revenue BTX file fase 1  imported
+df_growth_est BTX file fase 1  imported
+df_revenue_est BTX file fase 1  imported
+df_earnings_est BTX file fase 1  imported
+df_earnings_hist BTX file fase 1  imported
+df_eps_trend BTX file fase 1  imported
+df_stats BTX file fase 1  imported
+df_income_statement MEGACPO.MX file fase 1  imported
+df_balance MEGACPO.MX file fase 1  imported
+df_cash_flow_statement MEGACPO.MX file fase 1  imported
+df_quote_table MEGACPO.MX file fase 1  imported
+df_earnings_q_results MEGACPO.MX file fase 1  imported
+df_earnings_q_revenue MEGACPO.MX file fase 1  imported
+df_earnings_y_revenue MEGACPO.MX file fase 1  imported
+df_growth_est MEGACPO.MX file fase 1  imported
+df_revenue_est MEGACPO.MX file fase 1  imported
+df_earnings_est MEGACPO.MX file fase 1  imported
+df_earnings_hist MEGACPO.MX file fase 1  imported
+df_eps_trend MEGACPO.MX file fase 1  imported
+df_stats MEGACPO.MX file fase 1  imported
+df_income_statement DCOM file fase 1  imported
+df_balance DCOM file fase 1  imported
+df_cash_flow_statement DCOM file fase 1  imported
+df_quote_table DCOM file fase 1  imported
+df_earnings_q_results DCOM file fase 1  imported
+df_earnings_q_revenue DCOM file fase 1  imported
+df_earnings_y_revenue DCOM file fase 1  imported
+df_growth_est DCOM file fase 1  imported
+df_revenue_est DCOM file fase 1  imported
+df_earnings_est DCOM file fase 1  imported
+df_earnings_hist DCOM file fase 1  imported
+df_eps_trend DCOM file fase 1  imported
+df_stats DCOM file fase 1  imported
+df_income_statement BULK file fase 2  imported
+df_balance BULK file fase 2  imported
+df_cash_flow_statement BULK file fase 2  imported
+df_quote_table BULK file fase 2  imported
+df_earnings_q_results BULK file fase 2  imported
+df_earnings_q_revenue BULK file fase 2  imported
+df_earnings_y_revenue BULK file fase 2  imported
+df_growth_est BULK file fase 2  imported
+df_revenue_est BULK file fase 2  imported
+df_earnings_est BULK file fase 2  imported
+df_earnings_hist BULK file fase 2  imported
+df_eps_trend BULK file fase 2  imported
+df_stats BULK file fase 2  imported
+Fundamentals update start at 2021-12-21 20:40:37.803610
+
+All Fundamentals were updated in DB,  End at 2021-12-21 20:41:13.208618
+
+etl_web_01b_yahoo_fundamentals_to_db.py is Done
+2021-12-21 20:41:13.208618
+---------------
+Job Finished at: 20:41:13
+Job Time: 00:08:57.4659727

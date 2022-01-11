@@ -1,0 +1,251 @@
+sector_class,Industry,Finance_Flag
+Industry: Wireline Non-US,Wireline,0
+Industry: Wireline - National,Wireline,0
+Industry: Wireless Non-US ,Wireless,0
+Industry: Wireless National,Wireless,0
+Industry: Wireless Equipment,Wireless,0
+Industry: Wire and Cable Products,Wire,0
+Industry: Waste Removal Services,Waste,0
+Industry: Utility - Water Supply,Utility,0
+Industry: Utility - Gas Distribution,Utility,0
+Industry: Utility - Electric Power,Utility,0
+Industry: Uniform and Related,Uniform,0
+Industry: Transportation - Truck,Transportation,0
+Industry: Transportation - Shipping,Transportation,0
+Industry: Transportation - Services,Transportation,0
+Industry: Transportation - Rail,Transportation,0
+Industry: Transportation - Equipment and Leasing,Transportation,0
+Industry: Transportation - Airline,Transportation,0
+Industry: Transportation - Air Freight and Cargo,Transportation,0
+Industry: Toys - Games - Hobbies,Toys,0
+Industry: Tools - Handheld,Tools,0
+Industry: Tobacco,Tobacco,0
+Industry: Textile - Products,Textile,0
+Industry: Textile - Home Furnishing,Textile,0
+Industry: Textile - Apparel,Textile,0
+Industry: Technology Services,Technology,0
+Industry: Steel - Speciality,Steel,0
+Industry: Steel - Producers,Steel,0
+Industry: Steel - Pipe and Tube,Steel,0
+Industry: Staffing Firms,Staffing,0
+Industry: Solar,Solar,0
+Industry: Soap and Cleaning Materials,Soap,0
+Industry: Shoes and Retail Apparel ,Shoes,0
+Industry: Semiconductors - Radio Frequency,Semiconductors,0
+Industry: Semiconductors - Programmable Logic,Semiconductors,0
+Industry: Semiconductors - Power,Semiconductors,0
+Industry: Semiconductor Memory,Semiconductors,0
+Industry: Semiconductor Equipment - Wafer Fabrication,Semiconductors,0
+Industry: Semiconductor Equipment - Wafer Components,Semiconductors,0
+Industry: Semiconductor Equipment - Photomasks,Semiconductors,0
+Industry: Semiconductor - General,Semiconductors,0
+Industry: Semiconductor - Discretes,Semiconductors,0
+Industry: Semiconductor - Communications ,Semiconductors,0
+Industry: Semiconductor - Circuit Foundry,Semiconductors,0
+Industry: Semiconductor - Analog and Mixed,Semiconductors,0
+Industry: Security and Safety Services,Security,0
+Industry: Security,Security,0
+Industry: Securities and Exchanges,Securities,0
+Industry: Schools,Schools,0
+Industry: Satellite and Communication,Satellite,0
+Industry: Rubber - Tires,Rubber,0
+Industry: Rubber - Plastics,Rubber,0
+Industry: Retail - Supermarkets,Retail,0
+Industry: Retail - Restaurants,Retail,0
+Industry: Retail - Regional Department Stores,Retail,0
+Industry: Retail - Pharmacies and Drug Stores,Retail,0
+Industry: Retail - Miscellaneous,Retail,0
+Industry: Retail - Mail Order,Retail,0
+Industry: Retail - Jewelry,Retail,0
+Industry: Retail - Home Furnishings,Retail,0
+Industry: Retail - Discount Stores,Retail,0
+Industry: Retail - Convenience Stores,Retail,0
+Industry: Retail - Consumer Electronics,Retail,0
+Industry: Retail - Computer Hardware,Retail,0
+Industry: Retail - Catalog Shopping,Retail,0
+Industry: Retail - Apparel and Shoes,Retail,0
+Industry: REIT and Equity Trust - Retail,REIT,0
+Industry: REIT and Equity Trust - Residential,REIT,0
+Industry: REIT and Equity Trust - Other,REIT,0
+Industry: REIT and Equity Trust,REIT,0
+Industry: Real Estate - Operations,Real,0
+Industry: Real Estate - Development,Real,0
+Industry: Publishing - Periodicals,Publishing,0
+Industry: Publishing - Newspapers,Publishing,0
+Industry: Precious Metals and Jewels,Precious,0
+Industry: Pollution Control,Pollution,0
+Industry: Paper and Related Products,Paper,0
+Industry: Paints and Related Products,Paints,0
+Industry: Outsourcing,Outsourcing,0
+Industry: Oil and Gas - Royalty Trust - United States,Oil,0
+Industry: Oil and Gas - Refining and Marketing - Master Limited Partnerships,Oil,0
+Industry: Oil and Gas - Refining and Marketing,Oil,0
+Industry: Oil and Gas - Production Pipeline - MLB,Oil,0
+Industry: Oil and Gas - Production and Pipelines,Oil,0
+Industry: Oil and Gas - Mechanical and and Equipment,Oil,0
+Industry: Oil and Gas - Integrated - United States,Oil,0
+Industry: Oil and Gas - Integrated - International,Oil,0
+Industry: Oil and Gas - Integrated - Emerging Markets,Oil,0
+Industry: Oil and Gas - Integrated - Canadian,Oil,0
+Industry: Oil and Gas - Field Services,Oil,0
+Industry: Oil and Gas - Exploration and Production - United States,Oil,0
+Industry: Oil and Gas - Exploration and Production - International,Oil,0
+Industry: Oil and Gas - Exploration and Production - Canadian,Oil,0
+Industry: Oil and Gas - Drilling,Oil,0
+Industry: Office Supplies,Office,0
+Industry: Office Automation and Equipment,Office,0
+Industry: Nanotechnology,Nanotechnology,0
+Industry: Mining - Silver,Mining,0
+Industry: Mining - Non Ferrous,Mining,0
+Industry: Mining - Miscellaneous,Mining,0
+Industry: Mining - Iron,Mining,0
+Industry: Mining - Gold,Mining,0
+Industry: Metal Products - Procurement and Fabrication,Metal,0
+Industry: Metal Products - Fasteners,Metal,0
+Industry: Metal Products - Distribution,Metal,0
+Industry: Medical Services,Medical,0
+Industry: Medical Info Systems,Medical,0
+Industry: Medical - Products,Medical,0
+Industry: Medical - Outpatient and Home Healthcare,Medical,0
+Industry: Medical - Nursing Homes,Medical,0
+Industry: Medical - Instruments,Medical,0
+Industry: Medical - Hospital,Medical,0
+Industry: Medical - HMOs,Medical,0
+Industry: Medical - Generic Drugs,Medical,0
+Industry: Medical - Drugs,Medical,0
+Industry: Medical - Dental Supplies,Medical,0
+Industry: Medical - Biomedical and Genetics,Medical,0
+Industry: Media Conglomerates,Media,0
+Industry: Manufacturing - Tools & Related Products,Manufacturing,0
+Industry: Manufacturing - Thermal Products,Manufacturing,0
+Industry: Manufacturing - Print,Manufacturing,0
+Industry: Manufacturing - Material Handling,Manufacturing,0
+Industry: Manufacturing - General Industrial ,Manufacturing,0
+Industry: Manufacturing - Farm Equipment,Manufacturing,0
+Industry: Manufacturing - Electronics,Manufacturing,0
+Industry: Manufacturing - Electrical Utilities ,Manufacturing,0
+Industry: Manufacturing - Construction and Mining,Manufacturing,0
+Industry: Leisure and Recreation Services,Leisure,0
+Industry: Leisure and Recreation Products,Leisure,0
+Industry: Lasers Systems and Components,Lasers,0
+Industry: Large Cap Pharmaceuticals,Large,0
+Industry: Internet - Software and Services,Internet,0
+Industry: Internet - Software,Internet,0
+Industry: Internet - Services,Internet,0
+Industry: Internet - Delivery Services,Internet,0
+Industry: Internet - Content,Internet,0
+Industry: Internet - Commerce,Internet,0
+Industry: Insurance - Property and Casualty,Insurance,1
+Industry: Insurance - Multi line,Insurance,1
+Industry: Insurance - Life Insurance,Insurance,1
+Industry: Insurance - Brokerage,Insurance,1
+Industry: Insurance - Accident and Health,Insurance,1
+Industry: Instruments - Scientific,Instruments,0
+Industry: Instruments - Control,Instruments,0
+Industry: Industrial Services,Industrial,0
+Industry: Industrial Automation and Robotics,Industrial,0
+Industry: Household Appliances,Household,0
+Industry: Hotels and Motels,Hotels,0
+Industry: Government Services,Government,0
+Industry: Glass Products,Glass,0
+Industry: Gaming,Gaming,0
+Industry: Furniture,Furniture,0
+Industry: Funeral Services,Funeral,0
+Industry: Food - Natural Foods Products,Food,0
+Industry: Food - Miscellaneous,Food,0
+Industry: Food - Meat Products,Food,0
+Industry: Food - Confectionery,Food,0
+Industry: Financial Transaction Services,Financial,1
+Industry: Financial - SBIC & Commercial Industry,Financial,1
+Industry: Financial - Savings and Loan,Financial,1
+Industry: Financial - Mortgage & Related Services,Financial,1
+Industry: Financial - Miscellaneous Services,Financial,1
+Industry: Financial - Leasing Companies,Financial,1
+Industry: Financial - Investment Management,Financial,1
+Industry: Financial - Investment Funds,Financial,1
+Industry: Financial - Investment Bank,Financial,1
+Industry: Financial - Consumer Loans,Financial,1
+Industry: Film and Television Production and Distribution,Film,0
+Industry: Fiber Optics,Fiber,0
+Industry: Fertilizers,Fertilizers,0
+Industry: Engineering - R and D Services,Engineering,0
+Industry: Energy and Pipeline - Master Limited Partnerships,Energy,0
+Industry: Electronics - Testing Equipment,Electronics,0
+Industry: Electronics - Semiconductors,Electronics,0
+Industry: Electronics - Power Generation,Electronics,0
+Industry: Electronics - Parts Distribution,Electronics,0
+Industry: Electronics - Miscellaneous Services,Electronics,0
+Industry: Electronics - Miscellaneous Products,Electronics,0
+Industry: Electronics - Miscellaneous Components,Electronics,0
+Industry: Electronics - Military,Electronics,0
+Industry: Electronics - Measuring Instruments,Electronics,0
+Industry: Electronics - Manufacturing Services,Electronics,0
+Industry: Electronics - Manufacturing Machinery,Electronics,0
+Industry: Electronics - Connectors,Electronics,0
+Industry: Electric Construction,Electric,0
+Industry: Diversified Operations,Diversified,0
+Industry: Diversified Communication Services,Diversified,0
+Industry: Cosmetics,Cosmetics,0
+Industry: Containers - Paper and Packaging,Containers,0
+Industry: Containers - Metal and Glass,Containers,0
+Industry: Consumer Services - Miscellaneous,Consumer,0
+Industry: Consumer Products - Staples,Consumer,0
+Industry: Consumer Products - Discretionary,Consumer,0
+Industry: Consulting Services,Consulting,0
+Industry: Computers - IT Services,Computers,0
+Industry: Computer- Storage Devices,Computer,0
+Industry: Computer - Software,Computer,0
+Industry: Computer - Services,Computer,0
+Industry: Computer - Peripheral Equipment,Computer,0
+Industry: Computer - Optical Imaging,Computer,0
+Industry: Computer - Networking,Computer,0
+Industry: Computer - Mini computers,Computer,0
+Industry: Computer - Integrated Systems,Computer,0
+Industry: Communication - Network Software,Communication,0
+Industry: Communication - Infrastructure,Communication,0
+Industry: Communication - Components,Communication,0
+Industry: Commercial Printing,Commercial,0
+Industry: Coal,Coal,0
+Industry: Chemical - Specialty,Chemical,0
+Industry: Chemical - Plastic,Chemical,0
+Industry: Chemical - Diversified ,Chemical,0
+Industry: Cable Television,Cable,0
+Industry: Business - Software Services,Business,0
+Industry: Business - Services,Business,0
+Industry: Business - Information Services,Business,0
+Industry: Building Products - Wood,Building,0
+Industry: Building Products - Retail,Building,0
+Industry: Building Products - Mobile Homes and RV Builders,Building,0
+Industry: Building Products - Miscellaneous,Building,0
+Industry: Building Products - Maintenance Service,Building,0
+Industry: Building Products - Lighting,Building,0
+Industry: Building Products - Home Builders,Building,0
+Industry: Building Products - Heavy Construction,Building,0
+Industry: Building Products - Concrete and Aggregates,Building,0
+Industry: Building Products - Air Conditioner and Heating,Building,0
+Industry: Broadcast Radio and Television,Broadcast,0
+Industry: Biofuels,Biofuels,0
+Industry: Beverages - Soft drinks,Beverages,0
+Industry: Beverages - Alcohol,Beverages,0
+Industry: Banks - West,Banks,1
+Industry: Banks - Southwest,Banks,1
+Industry: Banks - Southeast,Banks,1
+Industry: Banks - Northeast,Banks,1
+Industry: Banks - Midwest,Banks,1
+Industry: Banks - Major Regional,Banks,1
+Industry: Banks - Foreign,Banks,1
+Industry: Automotive - Retail and Wholesale - Parts,Automotive,0
+Industry: Automotive - Retail and Whole Sales,Automotive,0
+Industry: Automotive - Replacement Parts,Automotive,0
+Industry: Automotive - Original Equipment,Automotive,0
+Industry: Automotive - Internal Combustion Engines,Automotive,0
+Industry: Automotive - Foreign,Automotive,0
+Industry: Automotive - Domestic,Automotive,0
+Industry: Audio Video Production,Audio,0
+Industry: Auction and Valuation Services,Auction,0
+Industry: Alternative Energy - Other,Alternative,0
+Industry: Agriculture - Products,Agriculture,0
+Industry: Agriculture - Operations,Agriculture,0
+Industry: Aerospace - Defense Equipment,Aerospace,0
+Industry: Aerospace - Defense,Aerospace,0
+Industry: Advertising and Marketing,Advertising,0

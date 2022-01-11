@@ -1,0 +1,266 @@
+CREATE OR REPLACE PROCEDURE ptest_Testing_kpi ( snapshotdate DATE   )
+LANGUAGE plpgsql
+AS $procedure$
+BEGIN
+
+
+
+
+--Generates the  Snapshot  15 , 16 , 17 , 19 , 20 
+call proc_r1_KPI_versions (snapshotdate);
+
+
+
+----Created bBU table with date in name 
+
+
+DROP TABLE IF EXISTS   public.df_kpi_s_testing; 
+
+CREATE TABLE PUBLIC.DF_KPI_S_TESTING AS  
+SELECT *, cast (snapshotdate as date )  AS VERSION  
+FROM PUBLIC.DF_KPI_S ;
+
+
+----
+    
+ALTER TABLE df_kpi_s_testing  
+            ADD  FUTURE_DATE_PRICE_1  DATE
+            ,ADD FUTURE_CLOSE_PRICE_1 DECIMAL (10,2) 
+            ,ADD FUTURE_DATE_PRICE_2  DATE
+            ,ADD FUTURE_CLOSE_PRICE_2 DECIMAL (10,2) 
+            ,ADD FUTURE_DATE_PRICE_3  DATE
+            ,ADD FUTURE_CLOSE_PRICE_3 DECIMAL (10,2) 
+            ,ADD FUTURE_DATE_PRICE_4  DATE
+            ,ADD FUTURE_CLOSE_PRICE_4 DECIMAL (10,2) 
+            ,ADD FUTURE_DATE_PRICE_5  DATE
+            ,ADD FUTURE_CLOSE_PRICE_5 DECIMAL (10,2) 
+            ,ADD FUTURE_MAX_PRICE_DAYDIFF_5 INT
+            ,ADD PROFIT_FLAG_1  INT
+            ,ADD PROFIT_PERC_1  DECIMAL(10 , 2 )
+            ,ADD PROFIT_FLAG_2  INT
+            ,ADD PROFIT_PERC_2  DECIMAL(10 , 2 )
+            ,ADD PROFIT_FLAG_3  INT
+            ,ADD PROFIT_PERC_3  DECIMAL(10 , 2 )
+            ,ADD PROFIT_FLAG_4  INT
+            ,ADD PROFIT_PERC_4  DECIMAL(10 , 2 )
+            ,ADD PROFIT_FLAG_5  INT
+            ,ADD PROFIT_PERC_5  DECIMAL(10 , 2 )
+            ,ADD S_VA_PNT_TOTAL_GROUP VARCHAR(20)
+            ,ADD S_MO_ALL_DATA_FLAG_GROUP  VARCHAR(20)
+            ,ADD SCORE_TICKER_GROUP  VARCHAR(20)
+            
+                ,ADD   S_VA_DECILE	INT
+                ,ADD S_MO_DECILE INT
+                ,ADD SCORE_TICKER_DECILE	 INT
+         
+                    ;
+
+
+--updates future prices 
+--  FP 15D
+UPDATE df_kpi_s_testing  T1
+SET
+ 	FUTURE_DATE_PRICE_1	=	T2.C1
+,	FUTURE_CLOSE_PRICE_1	=	T2.	C2
+FROM (
+	SELECT 
+		T2A.TICKER
+		,T2A.DATE AS c1
+		,T2A.CLOSE AS c2
+		FROM PUBLIC.df_kpi_s_testing AS T1A
+		LEFT JOIN   PUBLIC.DF_BUY_SELL_FLAG AS T2A ON  T1A.TICKER=T2A.TICKER 
+		WHERE T2A.DATE  = (
+							SELECT MAX 	(T2B.DATE )
+							FROM  PUBLIC.DF_BUY_SELL_FLAG AS T2B
+							where T2A.TICKER=T2B.TICKER 
+							and T2B.DATE <= (T1A.STIKER_PRICE_DATE +INTERVAL '15 DAYS' ) )
+      )  AS T2 
+WHERE  T1.TICKER=T2.TICKER ;
+
+
+--  FP 1M
+UPDATE df_kpi_s_testing  T1
+SET
+ 	Future_date_price_2	=	T2.c1
+,	Future_close_price_2	=	T2.	c2
+FROM (
+	SELECT 
+		T2A.TICKER
+		,T2A.DATE AS c1
+		,T2A.CLOSE AS c2
+		FROM PUBLIC.df_kpi_s_testing AS T1A
+		LEFT JOIN   PUBLIC.DF_BUY_SELL_FLAG AS T2A ON  T1A.TICKER=T2A.TICKER 
+		WHERE T2A.DATE  = (
+							SELECT MAX 	(T2B.DATE )
+							FROM  PUBLIC.DF_BUY_SELL_FLAG AS T2B
+							where T2A.TICKER=T2B.TICKER 
+							and T2B.DATE <= (T1A.STIKER_PRICE_DATE +INTERVAL '1 Month' ) )
+      )  AS T2 
+WHERE  T1.TICKER=T2.TICKER ;
+
+
+--  FP 2M
+UPDATE df_kpi_s_testing  T1
+SET
+ 	Future_date_price_3	=	T2.c1
+,	Future_close_price_3	=	T2.	c2
+FROM (
+	SELECT 
+		T2A.TICKER
+		,T2A.DATE AS c1
+		,T2A.CLOSE AS c2
+		FROM PUBLIC.df_kpi_s_testing AS T1A
+		LEFT JOIN   PUBLIC.DF_BUY_SELL_FLAG AS T2A ON  T1A.TICKER=T2A.TICKER 
+		WHERE T2A.DATE  = (
+							SELECT MAX 	(T2B.DATE )
+							FROM  PUBLIC.DF_BUY_SELL_FLAG AS T2B
+							where T2A.TICKER=T2B.TICKER 
+							and T2B.DATE <= (T1A.STIKER_PRICE_DATE +INTERVAL '2 Month' ) )
+      )  AS T2 
+WHERE  T1.TICKER=T2.TICKER ;
+
+
+--  FP 3M
+UPDATE df_kpi_s_testing  T1
+SET
+ 	Future_date_price_4	=	T2.c1
+,	Future_close_price_4	=	T2.	c2
+FROM (
+	SELECT 
+		T2A.TICKER
+		,T2A.DATE AS c1
+		,T2A.CLOSE AS c2
+		FROM PUBLIC.df_kpi_s_testing AS T1A
+		LEFT JOIN   PUBLIC.DF_BUY_SELL_FLAG AS T2A ON  T1A.TICKER=T2A.TICKER 
+		WHERE T2A.DATE  = (
+							SELECT MAX 	(T2B.DATE )
+							FROM  PUBLIC.DF_BUY_SELL_FLAG AS T2B
+							where T2A.TICKER=T2B.TICKER 
+							and T2B.DATE <= (T1A.STIKER_PRICE_DATE +INTERVAL '3 Month' ) )
+      )  AS T2 
+WHERE  T1.TICKER=T2.TICKER ;
+
+
+
+--  FP max
+UPDATE df_kpi_s_testing  T1
+SET
+ 	Future_date_price_5	=	T2.c1
+,	Future_close_price_5	=	T2.	c2
+FROM (
+    SELECT 
+            T2A.TICKER
+            ,T2A.CLOSE AS C2
+            ,MIN (T2A.DATE) AS C1
+            FROM PUBLIC.DF_KPI_S_TESTING AS T1A
+            LEFT JOIN   PUBLIC.DF_BUY_SELL_FLAG AS T2A ON  T1A.TICKER=T2A.TICKER 
+    WHERE T2A.DATE BETWEEN T1A.STIKER_PRICE_DATE  
+    AND (T1A.STIKER_PRICE_DATE +INTERVAL '3 MONTH' )
+    and T2A.CLOSE  = (
+                    SELECT 
+                        MAX 	(T2B.CLOSE )
+                    FROM  PUBLIC.DF_BUY_SELL_FLAG AS T2B
+                    WHERE T2A.TICKER=T2B.TICKER 
+                    AND T2B.DATE BETWEEN T1A.STIKER_PRICE_DATE  
+                    AND (T1A.STIKER_PRICE_DATE +INTERVAL '3 MONTH' ) )
+     GROUP BY 
+        T2A.TICKER
+        ,T2A.CLOSE
+
+    
+      )  AS T2 
+WHERE  T1.TICKER=T2.TICKER ;
+
+--
+--PERIOD 1
+UPDATE DF_KPI_S_TESTING  T1
+SET PROFIT_FLAG_1 = CASE WHEN  STIKER_PRICE < FUTURE_CLOSE_PRICE_1   THEN  1 ELSE  0  END 
+,PROFIT_PERC_1 =  (  FUTURE_CLOSE_PRICE_1- STIKER_PRICE  ) / STIKER_PRICE ; 
+--PERIOD 2
+UPDATE DF_KPI_S_TESTING  T1
+SET PROFIT_FLAG_2 = CASE WHEN  STIKER_PRICE < FUTURE_CLOSE_PRICE_2   THEN  1 ELSE  0  END 
+,PROFIT_PERC_2 =  (  FUTURE_CLOSE_PRICE_2- STIKER_PRICE  ) / STIKER_PRICE ; 
+
+--PERIOD 3
+UPDATE DF_KPI_S_TESTING  T1
+SET PROFIT_FLAG_3 = CASE WHEN  STIKER_PRICE < FUTURE_CLOSE_PRICE_3   THEN  1 ELSE  0  END 
+,PROFIT_PERC_3 =  (  FUTURE_CLOSE_PRICE_3- STIKER_PRICE  ) / STIKER_PRICE ; 
+--PERIOD 4
+UPDATE DF_KPI_S_TESTING  T1
+SET PROFIT_FLAG_4 = CASE WHEN  STIKER_PRICE < FUTURE_CLOSE_PRICE_4   THEN  1 ELSE  0  END 
+,PROFIT_PERC_4 =  (  FUTURE_CLOSE_PRICE_4- STIKER_PRICE  ) / STIKER_PRICE ; 
+--PERIOD 5  (MAX PRICE )
+UPDATE DF_KPI_S_TESTING  T1
+SET PROFIT_FLAG_5 = CASE WHEN  STIKER_PRICE < FUTURE_CLOSE_PRICE_5   THEN  1 ELSE  0  END 
+,PROFIT_PERC_5 =  (  FUTURE_CLOSE_PRICE_5- STIKER_PRICE  ) / STIKER_PRICE ; 
+
+--DAY TO GET MAX PRICE AFETER VALUEATION 
+UPDATE DF_KPI_S_TESTING  T1
+SET FUTURE_MAX_PRICE_DAYDIFF_5 = FUTURE_DATE_PRICE_5 - STIKER_PRICE_DATE;
+
+---------------
+--GROPING 
+---------------
+-- DECILES
+UPDATE DF_KPI_S_TESTING T1
+SET
+ 	S_VA_DECILE	=	T2.	S_VA_DECILE
+    ,	S_MO_DECILE	=	T2.	S_MO_DECILE
+    ,	SCORE_TICKER_DECILE	=	T2.	SCORE_TICKER_DECILE
+
+FROM (
+
+SELECT 
+TICKER
+,NTILE(100) OVER( PARTITION BY version   ORDER BY  T1.S_VA_PNT_TOTAL  desc )   AS S_VA_DECILE
+,NTILE(100) OVER(  PARTITION BY version   ORDER BY  T1.S_MO_ALL_DATA_FLAG  desc )   AS S_MO_DECILE
+,NTILE(100) OVER(   PARTITION BY version  ORDER BY  T1.SCORE_TICKER  desc )   AS SCORE_TICKER_DECILE
+FROM DF_KPI_S_TESTING  T1
+
+
+  )  AS T2 
+  WHERE  T1.TICKER=T2.TICKER;
+
+
+
+
+UPDATE DF_KPI_S_TESTING  T1
+SET 
+S_VA_PNT_TOTAL_GROUP = CASE WHEN S_VA_DECILE BETWEEN  1 AND  2  THEN  'Top 2'
+                            WHEN S_VA_DECILE BETWEEN  3 AND  5  THEN  '3 to 5'
+                                    WHEN S_VA_DECILE BETWEEN  6 AND  10  THEN  '6 TO 10'
+                                      WHEN S_VA_DECILE BETWEEN  10  AND 20  THEN  '10 TO 20'
+                                      ELSE 'More THAS 20 ' END 
+                                      
+,S_MO_ALL_DATA_FLAG_GROUP = CASE WHEN S_MO_DECILE BETWEEN  1 AND  2  THEN  'Top 2'
+                            WHEN S_MO_DECILE BETWEEN  3 AND  5  THEN  '3 to 5'
+                                    WHEN S_MO_DECILE BETWEEN  6 AND  10  THEN  '6 TO 10'
+                                      WHEN S_MO_DECILE BETWEEN  10  AND 20  THEN  '10 TO 20'
+                                      ELSE 'More THAS 20 ' END 
+
+,SCORE_TICKER_GROUP = CASE WHEN SCORE_TICKER_DECILE BETWEEN  1 AND  2  THEN  'Top 2'
+                            WHEN SCORE_TICKER_DECILE BETWEEN  3 AND  5  THEN  '3 to 5'
+                                    WHEN SCORE_TICKER_DECILE BETWEEN  6 AND  10  THEN  '6 TO 10'
+                                      WHEN SCORE_TICKER_DECILE BETWEEN  10  AND 20  THEN  '10 TO 20'
+                                      ELSE 'More THAS 20 ' END 
+                                      ;
+                                      
+
+
+
+
+--CREATE TABLE IF NOT EXISTS
+
+--			DROP TABLE DF_KPI_S_TESTING_AG; 
+CREATE TABLE IF NOT EXISTS DF_KPI_S_TESTING_AG  (LIKE DF_KPI_S_TESTING INCLUDING  ALL);
+
+--INSERT DATA TO AGREGATION 
+
+DELETE FROM DF_KPI_S_TESTING_AG WHERE  VERSION  IN (SELECT  VERSION FROM DF_KPI_S_TESTING );
+INSERT INTO DF_KPI_S_TESTING_AG
+SELECT  * FROM DF_KPI_S_TESTING T1 ;
+
+
+END
+$procedure$
+

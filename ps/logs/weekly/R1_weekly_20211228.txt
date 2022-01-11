@@ -1,0 +1,1530 @@
+Job started at: 11:00:01---------------
+2021-12-28 11:00:02.480898
+754 tickets to Download
+INFO Dowload started at 2021-12-28 11:00:02.778290
+
+BC8.DE's yahoo recomendation data done
+JWEL's yahoo recomendation data done
+DIA.MI's yahoo recomendation data done
+GBS's yahoo recomendation data done
+CIH's yahoo recomendation data done
+1109.HK's yahoo recomendation data done
+SMT.L ticker error processing INFO, Proc has  pass
+SANT.DE's yahoo recomendation data done
+ASC.L's yahoo recomendation data done
+LARK's yahoo recomendation data done
+SJ's yahoo recomendation data done
+FXPO.L's yahoo recomendation data done
+PRAH ticker error processing INFO, Proc has  pass
+ASTC's yahoo recomendation data done
+NTDOY's yahoo recomendation data done
+CMAX's yahoo recomendation data done
+GAMB's yahoo recomendation data done
+AVST.L's yahoo recomendation data done
+SIM.CO's yahoo recomendation data done
+STVN's yahoo recomendation data done
+SGRO.L's yahoo recomendation data done
+3968.HK's yahoo recomendation data done
+1810.HK's yahoo recomendation data done
+BBOX.L's yahoo recomendation data done
+TLG.DE's yahoo recomendation data done
+2331.HK's yahoo recomendation data done
+TRMT ticker error processing INFO, Proc has  pass
+STMP ticker error processing INFO, Proc has  pass
+DIM.PA's yahoo recomendation data done
+PBHC's yahoo recomendation data done
+0968.HK's yahoo recomendation data done
+1585.HK's yahoo recomendation data done
+ALTA ticker error processing INFO, Proc has  pass
+SLCT ticker error processing INFO, Proc has  pass
+CRESY's yahoo recomendation data done
+EDTK's yahoo recomendation data done
+BHAT's yahoo recomendation data done
+FINV's yahoo recomendation data done
+TEG.DE's yahoo recomendation data done
+TX's yahoo recomendation data done
+TMHC's yahoo recomendation data done
+CBOE's yahoo recomendation data done
+FKWL's yahoo recomendation data done
+BLCT's yahoo recomendation data done
+DLTR's yahoo recomendation data done
+KNX's yahoo recomendation data done
+DLTH's yahoo recomendation data done
+LI's yahoo recomendation data done
+EXPD's yahoo recomendation data done
+HSY's yahoo recomendation data done
+HTA's yahoo recomendation data done
+STXB's yahoo recomendation data done
+NTES's yahoo recomendation data done
+BGSF's yahoo recomendation data done
+PHM's yahoo recomendation data done
+TREX's yahoo recomendation data done
+UBOH's yahoo recomendation data done
+CCS's yahoo recomendation data done
+DG's yahoo recomendation data done
+SHW's yahoo recomendation data done
+ENPH's yahoo recomendation data done
+LEN's yahoo recomendation data done
+MTH's yahoo recomendation data done
+VALE's yahoo recomendation data done
+MHO's yahoo recomendation data done
+ENX.PA's yahoo recomendation data done
+SID's yahoo recomendation data done
+CROX's yahoo recomendation data done
+GRVY's yahoo recomendation data done
+BERY's yahoo recomendation data done
+SF.ST's yahoo recomendation data done
+DHI's yahoo recomendation data done
+NVR's yahoo recomendation data done
+TSCO's yahoo recomendation data done
+AAON's yahoo recomendation data done
+HBNC's yahoo recomendation data done
+DECK's yahoo recomendation data done
+SOF.BR's yahoo recomendation data done
+SMLR's yahoo recomendation data done
+IDN's yahoo recomendation data done
+IMXI's yahoo recomendation data done
+CAG's yahoo recomendation data done
+ACGL's yahoo recomendation data done
+SRT.DE's yahoo recomendation data done
+EVBG's yahoo recomendation data done
+OLO's yahoo recomendation data done
+OWLT's yahoo recomendation data done
+ARCE's yahoo recomendation data done
+MAS's yahoo recomendation data done
+EVRG's yahoo recomendation data done
+CHD's yahoo recomendation data done
+TRVN's yahoo recomendation data done
+IRMD's yahoo recomendation data done
+CXDO's yahoo recomendation data done
+MRVL's yahoo recomendation data done
+LCII's yahoo recomendation data done
+CRCT's yahoo recomendation data done
+ROAD's yahoo recomendation data done
+GO's yahoo recomendation data done
+REGN's yahoo recomendation data done
+SDH's yahoo recomendation data done
+HFG.DE's yahoo recomendation data done
+GPROFUT.MX's yahoo recomendation data done
+ITIC's yahoo recomendation data done
+IGIC's yahoo recomendation data done
+SY's yahoo recomendation data done
+IPN.PA's yahoo recomendation data done
+LFVN's yahoo recomendation data done
+RMD.AX's yahoo recomendation data done
+CNF's yahoo recomendation data done
+ADBE's yahoo recomendation data done
+SAM's yahoo recomendation data done
+CTAS's yahoo recomendation data done
+FSBC's yahoo recomendation data done
+PCH's yahoo recomendation data done
+WOR.AX's yahoo recomendation data done
+BDX's yahoo recomendation data done
+KPLT's yahoo recomendation data done
+FSFG's yahoo recomendation data done
+UWMC's yahoo recomendation data done
+CNCE's yahoo recomendation data done
+EFSC's yahoo recomendation data done
+IPW's yahoo recomendation data done
+SBFG's yahoo recomendation data done
+FGBI's yahoo recomendation data done
+LGIH's yahoo recomendation data done
+INTZ's yahoo recomendation data done
+VTEX's yahoo recomendation data done
+BWMX's yahoo recomendation data done
+INNV's yahoo recomendation data done
+FOA's yahoo recomendation data done
+CPB's yahoo recomendation data done
+GOTU's yahoo recomendation data done
+PUBM's yahoo recomendation data done
+QDEL's yahoo recomendation data done
+ATHM's yahoo recomendation data done
+QIWI's yahoo recomendation data done
+SWMA.ST's yahoo recomendation data done
+IS's yahoo recomendation data done
+FORTY's yahoo recomendation data done
+DFH's yahoo recomendation data done
+FEVR.L's yahoo recomendation data done
+WLN.PA's yahoo recomendation data done
+IG.MI's yahoo recomendation data done
+NEM.DE's yahoo recomendation data done
+OBCI's yahoo recomendation data done
+CRVL's yahoo recomendation data done
+WDP.BR's yahoo recomendation data done
+HLMA.L's yahoo recomendation data done
+ASML.AS's yahoo recomendation data done
+SVW.AX's yahoo recomendation data done
+WILC's yahoo recomendation data done
+MSB's yahoo recomendation data done
+GTT.PA's yahoo recomendation data done
+AVK's yahoo recomendation data done
+COP.DE's yahoo recomendation data done
+1299.HK's yahoo recomendation data done
+LOGN.SW's yahoo recomendation data done
+HL.L's yahoo recomendation data done
+CSL.AX's yahoo recomendation data done
+ESGR's yahoo recomendation data done
+ALL.AX's yahoo recomendation data done
+0700.HK's yahoo recomendation data done
+VHC's yahoo recomendation data done
+DISCB's yahoo recomendation data done
+SOBI.ST's yahoo recomendation data done
+LITB's yahoo recomendation data done
+MORN's yahoo recomendation data done
+DSV.CO's yahoo recomendation data done
+BETS-B.ST's yahoo recomendation data done
+PDEX's yahoo recomendation data done
+EEIQ's yahoo recomendation data done
+ERF.PA's yahoo recomendation data done
+RILY's yahoo recomendation data done
+HQI's yahoo recomendation data done
+HIFS's yahoo recomendation data done
+SIEB's yahoo recomendation data done
+OPY's yahoo recomendation data done
+ACNB's yahoo recomendation data done
+GCBC's yahoo recomendation data done
+TSBK's yahoo recomendation data done
+PKBK's yahoo recomendation data done
+OCG's yahoo recomendation data done
+POLY.L's yahoo recomendation data done
+TRIG.L's yahoo recomendation data done
+NRC's yahoo recomendation data done
+INS's yahoo recomendation data done
+HKIB's yahoo recomendation data done
+HLG's yahoo recomendation data done
+DISCK's yahoo recomendation data done
+WYY's yahoo recomendation data done
+BXC's yahoo recomendation data done
+BIM.PA's yahoo recomendation data done
+PW's yahoo recomendation data done
+SVA's yahoo recomendation data done
+PECO's yahoo recomendation data done
+ATKR's yahoo recomendation data done
+NTR's yahoo recomendation data done
+GTEC's yahoo recomendation data done
+FEMY's yahoo recomendation data done
+TAK's yahoo recomendation data done
+LGL's yahoo recomendation data done
+ROL's yahoo recomendation data done
+FIVE's yahoo recomendation data done
+ADSK's yahoo recomendation data done
+AMAL's yahoo recomendation data done
+TOMZ's yahoo recomendation data done
+FND's yahoo recomendation data done
+VIRT's yahoo recomendation data done
+PKI's yahoo recomendation data done
+HLI's yahoo recomendation data done
+NOW's yahoo recomendation data done
+FTSI's yahoo recomendation data done
+0914.HK's yahoo recomendation data done
+YETI's yahoo recomendation data done
+LU's yahoo recomendation data done
+BRP's yahoo recomendation data done
+MSCI's yahoo recomendation data done
+BOMN's yahoo recomendation data done
+LULU's yahoo recomendation data done
+ALGN's yahoo recomendation data done
+CPRX's yahoo recomendation data done
+CPRT's yahoo recomendation data done
+LITE's yahoo recomendation data done
+ASGN's yahoo recomendation data done
+CNXC's yahoo recomendation data done
+SGH's yahoo recomendation data done
+GNSS's yahoo recomendation data done
+GNRC's yahoo recomendation data done
+SBRA's yahoo recomendation data done
+HUIZ's yahoo recomendation data done
+SPWH's yahoo recomendation data done
+CVE's yahoo recomendation data done
+AIMC's yahoo recomendation data done
+SLP's yahoo recomendation data done
+CTRE's yahoo recomendation data done
+MKTX's yahoo recomendation data done
+HI's yahoo recomendation data done
+EPRT's yahoo recomendation data done
+FSS's yahoo recomendation data done
+MSFT's yahoo recomendation data done
+LZ's yahoo recomendation data done
+NSP's yahoo recomendation data done
+HCA's yahoo recomendation data done
+MCO's yahoo recomendation data done
+KREF's yahoo recomendation data done
+NKTR's yahoo recomendation data done
+CIO's yahoo recomendation data done
+APH's yahoo recomendation data done
+SPSC's yahoo recomendation data done
+BUR's yahoo recomendation data done
+ZTS's yahoo recomendation data done
+EXPI's yahoo recomendation data done
+ESNT's yahoo recomendation data done
+UTHR's yahoo recomendation data done
+SCU's yahoo recomendation data done
+GRMN's yahoo recomendation data done
+PRI's yahoo recomendation data done
+PPBI's yahoo recomendation data done
+SNX's yahoo recomendation data done
+UBCP's yahoo recomendation data done
+VZ's yahoo recomendation data done
+BAH's yahoo recomendation data done
+GDYN's yahoo recomendation data done
+WHD's yahoo recomendation data done
+CUZ's yahoo recomendation data done
+SPNS's yahoo recomendation data done
+AZPN's yahoo recomendation data done
+3323.HK's yahoo recomendation data done
+ENTG's yahoo recomendation data done
+EQT's yahoo recomendation data done
+GLOB's yahoo recomendation data done
+HLNE's yahoo recomendation data done
+CIVB's yahoo recomendation data done
+AEL's yahoo recomendation data done
+LAND's yahoo recomendation data done
+JD.L's yahoo recomendation data done
+TRU's yahoo recomendation data done
+PMTS's yahoo recomendation data done
+AEI's yahoo recomendation data done
+NOG's yahoo recomendation data done
+SPWR's yahoo recomendation data done
+FRBA's yahoo recomendation data done
+PFHD's yahoo recomendation data done
+LPLA's yahoo recomendation data done
+FMBH's yahoo recomendation data done
+FBMS's yahoo recomendation data done
+BSRR's yahoo recomendation data done
+RBB's yahoo recomendation data done
+SBCF's yahoo recomendation data done
+AUB's yahoo recomendation data done
+BUSE's yahoo recomendation data done
+OBT's yahoo recomendation data done
+IBTX's yahoo recomendation data done
+PFBC's yahoo recomendation data done
+AMNB's yahoo recomendation data done
+TSC's yahoo recomendation data done
+HBMD's yahoo recomendation data done
+TFC's yahoo recomendation data done
+FIBK's yahoo recomendation data done
+PB's yahoo recomendation data done
+CATC's yahoo recomendation data done
+TBK's yahoo recomendation data done
+ORRF's yahoo recomendation data done
+UNTY's yahoo recomendation data done
+YALA's yahoo recomendation data done
+NTST's yahoo recomendation data done
+FIGS's yahoo recomendation data done
+COIN's yahoo recomendation data done
+ZIP's yahoo recomendation data done
+HAYW's yahoo recomendation data done
+VINP's yahoo recomendation data done
+PHM.MC's yahoo recomendation data done
+SMG's yahoo recomendation data done
+COHU's yahoo recomendation data done
+UPST's yahoo recomendation data done
+ATRS's yahoo recomendation data done
+FPI's yahoo recomendation data done
+MVBF's yahoo recomendation data done
+ASML's yahoo recomendation data done
+ELA's yahoo recomendation data done
+WST's yahoo recomendation data done
+EPAM's yahoo recomendation data done
+SIGA's yahoo recomendation data done
+COLL's yahoo recomendation data done
+OESX's yahoo recomendation data done
+ICHR's yahoo recomendation data done
+CSGP's yahoo recomendation data done
+AEIS's yahoo recomendation data done
+MPWR's yahoo recomendation data done
+SEDG's yahoo recomendation data done
+GOLD's yahoo recomendation data done
+HZO's yahoo recomendation data done
+ONTO's yahoo recomendation data done
+NVDA's yahoo recomendation data done
+MCHP's yahoo recomendation data done
+MYRG's yahoo recomendation data done
+RGLS's yahoo recomendation data done
+INTU's yahoo recomendation data done
+KLAC's yahoo recomendation data done
+LFC's yahoo recomendation data done
+SFIX's yahoo recomendation data done
+DELL's yahoo recomendation data done
+CBNK's yahoo recomendation data done
+REGI's yahoo recomendation data done
+SMSI's yahoo recomendation data done
+JAZZ's yahoo recomendation data done
+RCM's yahoo recomendation data done
+ADV's yahoo recomendation data done
+MITK's yahoo recomendation data done
+SHLS's yahoo recomendation data done
+TTWO's yahoo recomendation data done
+DEA's yahoo recomendation data done
+HRB's yahoo recomendation data done
+ERII's yahoo recomendation data done
+TOWN's yahoo recomendation data done
+TYL's yahoo recomendation data done
+ANSS's yahoo recomendation data done
+GSL's yahoo recomendation data done
+SUI's yahoo recomendation data done
+ROP's yahoo recomendation data done
+BNL's yahoo recomendation data done
+IIPR's yahoo recomendation data done
+DSGX's yahoo recomendation data done
+COOP's yahoo recomendation data done
+AVGO's yahoo recomendation data done
+TER's yahoo recomendation data done
+REXR's yahoo recomendation data done
+ATLC's yahoo recomendation data done
+JBHT's yahoo recomendation data done
+SAMG's yahoo recomendation data done
+PATK's yahoo recomendation data done
+IRBT's yahoo recomendation data done
+CWH's yahoo recomendation data done
+NBIX's yahoo recomendation data done
+SAIC's yahoo recomendation data done
+VICI's yahoo recomendation data done
+HASI's yahoo recomendation data done
+OCFC's yahoo recomendation data done
+CHCT's yahoo recomendation data done
+RTLR's yahoo recomendation data done
+IR's yahoo recomendation data done
+INVH's yahoo recomendation data done
+VCTR's yahoo recomendation data done
+MGP's yahoo recomendation data done
+SACH's yahoo recomendation data done
+CARG's yahoo recomendation data done
+FORM's yahoo recomendation data done
+STM's yahoo recomendation data done
+COST's yahoo recomendation data done
+KEYS's yahoo recomendation data done
+FDS's yahoo recomendation data done
+CCMP's yahoo recomendation data done
+CORT's yahoo recomendation data done
+TREE's yahoo recomendation data done
+BBCP's yahoo recomendation data done
+ETRN's yahoo recomendation data done
+TEO's yahoo recomendation data done
+WAL's yahoo recomendation data done
+CNOB's yahoo recomendation data done
+GNTY's yahoo recomendation data done
+ESQ's yahoo recomendation data done
+PVBC's yahoo recomendation data done
+FCCY's yahoo recomendation data done
+SMBK's yahoo recomendation data done
+PNFP's yahoo recomendation data done
+MCB's yahoo recomendation data done
+MC's yahoo recomendation data done
+HONE's yahoo recomendation data done
+NBHC's yahoo recomendation data done
+SMMF's yahoo recomendation data done
+CCB's yahoo recomendation data done
+TW's yahoo recomendation data done
+IBKR's yahoo recomendation data done
+FFWM's yahoo recomendation data done
+GMRE's yahoo recomendation data done
+FHN's yahoo recomendation data done
+CHGG's yahoo recomendation data done
+FSBW's yahoo recomendation data done
+SSB's yahoo recomendation data done
+ABTX's yahoo recomendation data done
+GGAL's yahoo recomendation data done
+OPFI's yahoo recomendation data done
+LOVE's yahoo recomendation data done
+AAWW's yahoo recomendation data done
+ONEW's yahoo recomendation data done
+GOOS's yahoo recomendation data done
+SAIA's yahoo recomendation data done
+CRM's yahoo recomendation data done
+ACLS's yahoo recomendation data done
+LH's yahoo recomendation data done
+UCTT's yahoo recomendation data done
+OPRT's yahoo recomendation data done
+WCC's yahoo recomendation data done
+KFRC's yahoo recomendation data done
+IT's yahoo recomendation data done
+ZIM's yahoo recomendation data done
+FVCB's yahoo recomendation data done
+MPB's yahoo recomendation data done
+FHI's yahoo recomendation data done
+DXC's yahoo recomendation data done
+REPX's yahoo recomendation data done
+SAFE's yahoo recomendation data done
+OLK's yahoo recomendation data done
+CDNS's yahoo recomendation data done
+LX's yahoo recomendation data done
+GFF's yahoo recomendation data done
+GTLS's yahoo recomendation data done
+ACN's yahoo recomendation data done
+LRCX's yahoo recomendation data done
+VBTX's yahoo recomendation data done
+SGC's yahoo recomendation data done
+SCHW's yahoo recomendation data done
+NCBS's yahoo recomendation data done
+CCNE's yahoo recomendation data done
+STL's yahoo recomendation data done
+SASR's yahoo recomendation data done
+MNSB's yahoo recomendation data done
+AOMR's yahoo recomendation data done
+ATCO's yahoo recomendation data done
+LAZY's yahoo recomendation data done
+LEGH's yahoo recomendation data done
+SMBC's yahoo recomendation data done
+FIX's yahoo recomendation data done
+DLHC's yahoo recomendation data done
+SFST's yahoo recomendation data done
+FBNC's yahoo recomendation data done
+SNEX's yahoo recomendation data done
+UI's yahoo recomendation data done
+ZEPP's yahoo recomendation data done
+LOMA's yahoo recomendation data done
+POOL's yahoo recomendation data done
+MKSI's yahoo recomendation data done
+RYAM's yahoo recomendation data done
+SUPN's yahoo recomendation data done
+BR's yahoo recomendation data done
+MBUU's yahoo recomendation data done
+CASH's yahoo recomendation data done
+TROX's yahoo recomendation data done
+CMC's yahoo recomendation data done
+ATH's yahoo recomendation data done
+SFBS's yahoo recomendation data done
+JHG's yahoo recomendation data done
+SMPL's yahoo recomendation data done
+CLBK's yahoo recomendation data done
+CAMT's yahoo recomendation data done
+LAD's yahoo recomendation data done
+DAVA's yahoo recomendation data done
+FRHC's yahoo recomendation data done
+STAA's yahoo recomendation data done
+TROW's yahoo recomendation data done
+UFPI's yahoo recomendation data done
+SNPS's yahoo recomendation data done
+FSV's yahoo recomendation data done
+TNC's yahoo recomendation data done
+AMCR's yahoo recomendation data done
+LGO's yahoo recomendation data done
+STEP's yahoo recomendation data done
+BSVN's yahoo recomendation data done
+IONS's yahoo recomendation data done
+CLR's yahoo recomendation data done
+EOG's yahoo recomendation data done
+MCFT's yahoo recomendation data done
+HCC's yahoo recomendation data done
+EVR's yahoo recomendation data done
+BMA's yahoo recomendation data done
+IBCP's yahoo recomendation data done
+CFB's yahoo recomendation data done
+CVBF's yahoo recomendation data done
+QCRH's yahoo recomendation data done
+BFC's yahoo recomendation data done
+BFST's yahoo recomendation data done
+MBCN's yahoo recomendation data done
+HIMS's yahoo recomendation data done
+GABC's yahoo recomendation data done
+SFNC's yahoo recomendation data done
+AFYA's yahoo recomendation data done
+CDNA's yahoo recomendation data done
+SIVB's yahoo recomendation data done
+FMAO's yahoo recomendation data done
+NVCR's yahoo recomendation data done
+MED's yahoo recomendation data done
+SWI's yahoo recomendation data done
+NIU's yahoo recomendation data done
+YNDX's yahoo recomendation data done
+AGI's yahoo recomendation data done
+DRD's yahoo recomendation data done
+QNST's yahoo recomendation data done
+JYNT's yahoo recomendation data done
+APT's yahoo recomendation data done
+BMRN's yahoo recomendation data done
+GMAB's yahoo recomendation data done
+IBP's yahoo recomendation data done
+NFLX's yahoo recomendation data done
+SSD's yahoo recomendation data done
+BRO's yahoo recomendation data done
+SYNH's yahoo recomendation data done
+TSLA's yahoo recomendation data done
+VICR's yahoo recomendation data done
+ERIE's yahoo recomendation data done
+CSWI's yahoo recomendation data done
+BABA's yahoo recomendation data done
+PBFX's yahoo recomendation data done
+ANET's yahoo recomendation data done
+CABO's yahoo recomendation data done
+KMPR's yahoo recomendation data done
+ALRM's yahoo recomendation data done
+ZM's yahoo recomendation data done
+HQY's yahoo recomendation data done
+RVLV's yahoo recomendation data done
+IDXX's yahoo recomendation data done
+VCEL's yahoo recomendation data done
+VNDA's yahoo recomendation data done
+PGNY's yahoo recomendation data done
+KARO's yahoo recomendation data done
+GPN's yahoo recomendation data done
+VEEV's yahoo recomendation data done
+DPZ's yahoo recomendation data done
+MA's yahoo recomendation data done
+ICUI's yahoo recomendation data done
+PAYC's yahoo recomendation data done
+CMG's yahoo recomendation data done
+TECH's yahoo recomendation data done
+URI's yahoo recomendation data done
+BOX's yahoo recomendation data done
+ENV's yahoo recomendation data done
+ETSY's yahoo recomendation data done
+TTD's yahoo recomendation data done
+RSVR's yahoo recomendation data done
+ICLR's yahoo recomendation data done
+DXCM's yahoo recomendation data done
+AVAV's yahoo recomendation data done
+OLLI's yahoo recomendation data done
+STRA's yahoo recomendation data done
+LOPE's yahoo recomendation data done
+VIAC's yahoo recomendation data done
+LOGI's yahoo recomendation data done
+ENSG's yahoo recomendation data done
+APP's yahoo recomendation data done
+FTNT's yahoo recomendation data done
+GLBE's yahoo recomendation data done
+AMWD's yahoo recomendation data done
+CRSR's yahoo recomendation data done
+ISRG's yahoo recomendation data done
+TPL's yahoo recomendation data done
+WB's yahoo recomendation data done
+NMIH's yahoo recomendation data done
+GTN's yahoo recomendation data done
+DM's yahoo recomendation data done
+ABCL's yahoo recomendation data done
+APPF's yahoo recomendation data done
+CODX's yahoo recomendation data done
+HALO's yahoo recomendation data done
+CLF's yahoo recomendation data done
+TGNA's yahoo recomendation data done
+AXON's yahoo recomendation data done
+CLVT's yahoo recomendation data done
+VRTX's yahoo recomendation data done
+NXST's yahoo recomendation data done
+BSX's yahoo recomendation data done
+MPLX's yahoo recomendation data done
+AUDC's yahoo recomendation data done
+PBH's yahoo recomendation data done
+NICE's yahoo recomendation data done
+PEN's yahoo recomendation data done
+AVY's yahoo recomendation data done
+NOC's yahoo recomendation data done
+MASI's yahoo recomendation data done
+PCTY's yahoo recomendation data done
+CVS's yahoo recomendation data done
+AYX's yahoo recomendation data done
+BPMP's yahoo recomendation data done
+HEI's yahoo recomendation data done
+LIN's yahoo recomendation data done
+SHAK's yahoo recomendation data done
+RPAY's yahoo recomendation data done
+ONTF's yahoo recomendation data done
+VTRU's yahoo recomendation data done
+PAY's yahoo recomendation data done
+LESL's yahoo recomendation data done
+SLQT's yahoo recomendation data done
+DV's yahoo recomendation data done
+RLX's yahoo recomendation data done
+PRVA's yahoo recomendation data done
+DIBS's yahoo recomendation data done
+HNST's yahoo recomendation data done
+OLED's yahoo recomendation data done
+KMDA's yahoo recomendation data done
+FUTU's yahoo recomendation data done
+PAGS's yahoo recomendation data done
+CANG's yahoo recomendation data done
+SQ's yahoo recomendation data done
+VITL's yahoo recomendation data done
+PHAR's yahoo recomendation data done
+PNTG's yahoo recomendation data done
+SHOP's yahoo recomendation data done
+GSHD's yahoo recomendation data done
+KRNT's yahoo recomendation data done
+MIME's yahoo recomendation data done
+GDOT's yahoo recomendation data done
+EBS's yahoo recomendation data done
+FB's yahoo recomendation data done
+VIPS's yahoo recomendation data done
+HEAR's yahoo recomendation data done
+VIOT's yahoo recomendation data done
+GTES's yahoo recomendation data done
+GSMG's yahoo recomendation data done
+LAKE's yahoo recomendation data done
+ET's yahoo recomendation data done
+CENTA's yahoo recomendation data done
+AMZN's yahoo recomendation data done
+SGEN's yahoo recomendation data done
+NEM's yahoo recomendation data done
+RFIL's yahoo recomendation data done
+VST's yahoo recomendation data done
+ABMD's yahoo recomendation data done
+FOXF's yahoo recomendation data done
+SFM's yahoo recomendation data done
+WMS's yahoo recomendation data done
+DISCA's yahoo recomendation data done
+LGND's yahoo recomendation data done
+ADUS's yahoo recomendation data done
+XOMA's yahoo recomendation data done
+CI's yahoo recomendation data done
+CRL's yahoo recomendation data done
+MNST's yahoo recomendation data done
+IART's yahoo recomendation data done
+NSSC's yahoo recomendation data done
+CNC's yahoo recomendation data done
+EW's yahoo recomendation data done
+BTI's yahoo recomendation data done
+TME's yahoo recomendation data done
+PAAS's yahoo recomendation data done
+KWR's yahoo recomendation data done
+KL's yahoo recomendation data done
+LMT's yahoo recomendation data done
+MRCY's yahoo recomendation data done
+LHX's yahoo recomendation data done
+MKL's yahoo recomendation data done
+RNR's yahoo recomendation data done
+KDP's yahoo recomendation data done
+DSP's yahoo recomendation data done
+CENT's yahoo recomendation data done
+EAF's yahoo recomendation data done
+OMP's yahoo recomendation data done
+ADPT's yahoo recomendation data done
+CSTL's yahoo recomendation data done
+MEC's yahoo recomendation data done
+SOI's yahoo recomendation data done
+MORF's yahoo recomendation data done
+ARNA's yahoo recomendation data done
+PGR's yahoo recomendation data done
+SSRM's yahoo recomendation data done
+SWIM's yahoo recomendation data done
+MASS's yahoo recomendation data done
+RMO's yahoo recomendation data done
+JAMF's yahoo recomendation data done
+QFIN's yahoo recomendation data done
+EVC's yahoo recomendation data done
+GOOG's yahoo recomendation data done
+GOOGL's yahoo recomendation data done
+NSIT's yahoo recomendation data done
+CHE's yahoo recomendation data done
+JHX's yahoo recomendation data done
+NGVT's yahoo recomendation data done
+AMED's yahoo recomendation data done
+TPB's yahoo recomendation data done
+LHCG's yahoo recomendation data done
+MSA's yahoo recomendation data done
+ABT's yahoo recomendation data done
+TTC's yahoo recomendation data done
+NOA's yahoo recomendation data done
+TCMD's yahoo recomendation data done
+FNF's yahoo recomendation data done
+SMCI's yahoo recomendation data done
+SITE's yahoo recomendation data done
+STRL's yahoo recomendation data done
+KNSL's yahoo recomendation data done
+RGEN's yahoo recomendation data done
+FIZZ's yahoo recomendation data done
+DOYU's yahoo recomendation data done
+MOMO's yahoo recomendation data done
+CQP's yahoo recomendation data done
+INMD's yahoo recomendation data done
+HZNP's yahoo recomendation data done
+AMEH's yahoo recomendation data done
+WLK's yahoo recomendation data done
+QLYS's yahoo recomendation data done
+RMD's yahoo recomendation data done
+TGS's yahoo recomendation data done
+ISDR's yahoo recomendation data done
+FLGT's yahoo recomendation data done
+FSI's yahoo recomendation data done
+GLPG's yahoo recomendation data done
+TMO's yahoo recomendation data done
+IAC's yahoo recomendation data done
+XPEL's yahoo recomendation data done
+AMOT's yahoo recomendation data done
+PINC's yahoo recomendation data done
+VMD's yahoo recomendation data done
+EDN's yahoo recomendation data done
+NARI's yahoo recomendation data done
+PATH's yahoo recomendation data done
+JFIN's yahoo recomendation data done
+BRMK's yahoo recomendation data done
+APPS's yahoo recomendation data done
+NGMS's yahoo recomendation data done
+INVA's yahoo recomendation data done
+PLMR's yahoo recomendation data done
+NESR's yahoo recomendation data done
+SBSW's yahoo recomendation data done
+DQ's yahoo recomendation data done
+MAPS's yahoo recomendation data done
+EXEL's yahoo recomendation data done
+INFO Dowload finished at 2021-12-28 12:47:21.859035
+
+INFO Imp to DB Start at 2021-12-28 12:47:21.881030
+
+DF_YAHOO_RECOMMENDATIONS_IMP import to db succeed
+INFO Imp to DB End at 2021-12-28 12:47:22.092800
+
+etl_web_03_yahoo_recomendation.py is Done
+2021-12-28 12:47:22.092800
+query already declared
+BC8.DE's Zacks data error
+JWEL's Zacks data error
+DIA.MI's Zacks data error
+GBS's Zacks data error
+CIH's Zacks data error
+1109.HK's Zacks data error
+SMT.L's Zacks data error
+SANT.DE's Zacks data error
+ASC.L's Zacks data error
+LARK's Zacks data error
+SJ's Zacks data error
+FXPO.L's Zacks data error
+PRAH's Zacks data error
+ASTC's Zacks data error
+NTDOY's Zacks data error
+CMAX's Zacks data error
+GAMB's Zacks data error
+AVST.L's Zacks data error
+SIM.CO's Zacks data error
+STVN's Zacks data done
+SGRO.L's Zacks data error
+3968.HK's Zacks data error
+1810.HK's Zacks data error
+BBOX.L's Zacks data error
+TLG.DE's Zacks data error
+2331.HK's Zacks data error
+TRMT's Zacks data error
+STMP's Zacks data error
+DIM.PA's Zacks data error
+PBHC's Zacks data error
+0968.HK's Zacks data error
+1585.HK's Zacks data error
+ALTA's Zacks data error
+SLCT's Zacks data error
+CRESY's Zacks data error
+EDTK's Zacks data error
+BHAT's Zacks data error
+FINV's Zacks data error
+TEG.DE's Zacks data error
+TX's Zacks data done
+TMHC's Zacks data done
+CBOE's Zacks data done
+FKWL's Zacks data error
+BLCT's Zacks data error
+DLTR's Zacks data done
+KNX's Zacks data done
+DLTH's Zacks data done
+LI's Zacks data done
+EXPD's Zacks data done
+HSY's Zacks data done
+HTA's Zacks data done
+STXB's Zacks data done
+NTES's Zacks data done
+BGSF's Zacks data done
+PHM's Zacks data done
+TREX's Zacks data done
+UBOH's Zacks data error
+CCS's Zacks data done
+DG's Zacks data done
+SHW's Zacks data done
+ENPH's Zacks data done
+LEN's Zacks data done
+MTH's Zacks data done
+VALE's Zacks data done
+MHO's Zacks data done
+ENX.PA's Zacks data error
+SID's Zacks data done
+CROX's Zacks data done
+GRVY's Zacks data error
+BERY's Zacks data done
+SF.ST's Zacks data error
+DHI's Zacks data done
+NVR's Zacks data done
+TSCO's Zacks data done
+AAON's Zacks data done
+HBNC's Zacks data done
+DECK's Zacks data done
+SOF.BR's Zacks data error
+SMLR's Zacks data done
+IDN's Zacks data done
+IMXI's Zacks data done
+CAG's Zacks data done
+ACGL's Zacks data done
+SRT.DE's Zacks data error
+EVBG's Zacks data done
+OLO's Zacks data done
+OWLT's Zacks data done
+ARCE's Zacks data done
+MAS's Zacks data done
+EVRG's Zacks data done
+CHD's Zacks data done
+TRVN's Zacks data done
+IRMD's Zacks data done
+CXDO's Zacks data done
+MRVL's Zacks data done
+LCII's Zacks data done
+CRCT's Zacks data done
+ROAD's Zacks data done
+GO's Zacks data done
+REGN's Zacks data done
+SDH's Zacks data error
+HFG.DE's Zacks data error
+GPROFUT.MX's Zacks data error
+ITIC's Zacks data error
+IGIC's Zacks data error
+SY's Zacks data error
+IPN.PA's Zacks data error
+LFVN's Zacks data error
+RMD.AX's Zacks data error
+CNF's Zacks data done
+ADBE's Zacks data done
+SAM's Zacks data done
+CTAS's Zacks data done
+FSBC's Zacks data done
+PCH's Zacks data done
+WOR.AX's Zacks data error
+BDX's Zacks data done
+KPLT's Zacks data done
+FSFG's Zacks data done
+UWMC's Zacks data done
+CNCE's Zacks data done
+EFSC's Zacks data done
+IPW's Zacks data done
+SBFG's Zacks data done
+FGBI's Zacks data done
+LGIH's Zacks data done
+INTZ's Zacks data done
+VTEX's Zacks data done
+BWMX's Zacks data done
+INNV's Zacks data done
+FOA's Zacks data done
+CPB's Zacks data done
+GOTU's Zacks data done
+PUBM's Zacks data done
+QDEL's Zacks data done
+ATHM's Zacks data done
+QIWI's Zacks data done
+SWMA.ST's Zacks data error
+IS's Zacks data done
+FORTY's Zacks data error
+DFH's Zacks data done
+FEVR.L's Zacks data error
+WLN.PA's Zacks data error
+IG.MI's Zacks data error
+NEM.DE's Zacks data error
+OBCI's Zacks data error
+CRVL's Zacks data error
+WDP.BR's Zacks data error
+HLMA.L's Zacks data error
+ASML.AS's Zacks data error
+SVW.AX's Zacks data error
+WILC's Zacks data error
+MSB's Zacks data error
+GTT.PA's Zacks data error
+AVK's Zacks data error
+COP.DE's Zacks data error
+1299.HK's Zacks data error
+LOGN.SW's Zacks data error
+HL.L's Zacks data error
+CSL.AX's Zacks data error
+ESGR's Zacks data error
+ALL.AX's Zacks data error
+0700.HK's Zacks data error
+VHC's Zacks data error
+DISCB's Zacks data error
+SOBI.ST's Zacks data error
+LITB's Zacks data error
+MORN's Zacks data error
+DSV.CO's Zacks data error
+BETS-B.ST's Zacks data error
+PDEX's Zacks data error
+EEIQ's Zacks data error
+ERF.PA's Zacks data error
+RILY's Zacks data error
+HQI's Zacks data error
+HIFS's Zacks data error
+SIEB's Zacks data error
+OPY's Zacks data error
+ACNB's Zacks data error
+GCBC's Zacks data error
+TSBK's Zacks data error
+PKBK's Zacks data error
+OCG's Zacks data error
+POLY.L's Zacks data error
+TRIG.L's Zacks data error
+NRC's Zacks data error
+INS's Zacks data error
+HKIB's Zacks data error
+HLG's Zacks data error
+DISCK's Zacks data error
+WYY's Zacks data error
+BXC's Zacks data error
+BIM.PA's Zacks data error
+PW's Zacks data error
+SVA's Zacks data error
+PECO's Zacks data done
+ATKR's Zacks data error
+NTR's Zacks data done
+GTEC's Zacks data done
+FEMY's Zacks data done
+TAK's Zacks data done
+LGL's Zacks data done
+ROL's Zacks data done
+FIVE's Zacks data done
+ADSK's Zacks data done
+AMAL's Zacks data done
+TOMZ's Zacks data done
+FND's Zacks data done
+VIRT's Zacks data done
+PKI's Zacks data done
+HLI's Zacks data done
+NOW's Zacks data done
+FTSI's Zacks data done
+0914.HK's Zacks data error
+YETI's Zacks data done
+LU's Zacks data done
+BRP's Zacks data done
+MSCI's Zacks data done
+BOMN's Zacks data error
+LULU's Zacks data done
+ALGN's Zacks data done
+CPRX's Zacks data done
+CPRT's Zacks data done
+LITE's Zacks data done
+ASGN's Zacks data done
+CNXC's Zacks data done
+SGH's Zacks data done
+GNSS's Zacks data done
+GNRC's Zacks data done
+SBRA's Zacks data done
+HUIZ's Zacks data error
+SPWH's Zacks data done
+CVE's Zacks data done
+AIMC's Zacks data done
+SLP's Zacks data done
+CTRE's Zacks data done
+MKTX's Zacks data done
+HI's Zacks data done
+EPRT's Zacks data done
+FSS's Zacks data done
+MSFT's Zacks data done
+LZ's Zacks data done
+NSP's Zacks data done
+HCA's Zacks data done
+MCO's Zacks data done
+KREF's Zacks data done
+NKTR's Zacks data done
+CIO's Zacks data done
+APH's Zacks data done
+SPSC's Zacks data done
+BUR's Zacks data done
+ZTS's Zacks data done
+EXPI's Zacks data done
+ESNT's Zacks data done
+UTHR's Zacks data done
+SCU's Zacks data done
+GRMN's Zacks data done
+PRI's Zacks data done
+PPBI's Zacks data done
+SNX's Zacks data done
+UBCP's Zacks data error
+VZ's Zacks data done
+BAH's Zacks data done
+GDYN's Zacks data done
+WHD's Zacks data done
+CUZ's Zacks data done
+SPNS's Zacks data done
+AZPN's Zacks data done
+3323.HK's Zacks data error
+ENTG's Zacks data done
+EQT's Zacks data done
+GLOB's Zacks data done
+HLNE's Zacks data done
+CIVB's Zacks data done
+AEL's Zacks data done
+LAND's Zacks data done
+JD.L's Zacks data error
+TRU's Zacks data done
+PMTS's Zacks data error
+AEI's Zacks data error
+NOG's Zacks data done
+SPWR's Zacks data done
+FRBA's Zacks data done
+PFHD's Zacks data done
+LPLA's Zacks data done
+FMBH's Zacks data done
+FBMS's Zacks data done
+BSRR's Zacks data done
+RBB's Zacks data done
+SBCF's Zacks data done
+AUB's Zacks data done
+BUSE's Zacks data done
+OBT's Zacks data done
+IBTX's Zacks data done
+PFBC's Zacks data done
+AMNB's Zacks data done
+TSC's Zacks data done
+HBMD's Zacks data done
+TFC's Zacks data done
+FIBK's Zacks data done
+PB's Zacks data done
+CATC's Zacks data done
+TBK's Zacks data done
+ORRF's Zacks data done
+UNTY's Zacks data done
+YALA's Zacks data error
+NTST's Zacks data done
+FIGS's Zacks data done
+COIN's Zacks data done
+ZIP's Zacks data done
+HAYW's Zacks data done
+VINP's Zacks data done
+PHM.MC's Zacks data error
+SMG's Zacks data done
+COHU's Zacks data done
+UPST's Zacks data done
+ATRS's Zacks data done
+FPI's Zacks data done
+MVBF's Zacks data done
+ASML's Zacks data done
+ELA's Zacks data done
+WST's Zacks data done
+EPAM's Zacks data done
+SIGA's Zacks data done
+COLL's Zacks data done
+OESX's Zacks data done
+ICHR's Zacks data done
+CSGP's Zacks data done
+AEIS's Zacks data done
+MPWR's Zacks data done
+SEDG's Zacks data done
+GOLD's Zacks data done
+HZO's Zacks data done
+ONTO's Zacks data done
+NVDA's Zacks data done
+MCHP's Zacks data done
+MYRG's Zacks data done
+RGLS's Zacks data done
+INTU's Zacks data done
+KLAC's Zacks data done
+LFC's Zacks data done
+SFIX's Zacks data done
+DELL's Zacks data done
+CBNK's Zacks data done
+REGI's Zacks data done
+SMSI's Zacks data done
+JAZZ's Zacks data done
+RCM's Zacks data done
+ADV's Zacks data done
+MITK's Zacks data done
+SHLS's Zacks data done
+TTWO's Zacks data done
+DEA's Zacks data done
+HRB's Zacks data done
+ERII's Zacks data done
+TOWN's Zacks data done
+TYL's Zacks data done
+ANSS's Zacks data done
+GSL's Zacks data done
+SUI's Zacks data done
+ROP's Zacks data done
+BNL's Zacks data done
+IIPR's Zacks data done
+DSGX's Zacks data done
+COOP's Zacks data done
+AVGO's Zacks data done
+TER's Zacks data done
+REXR's Zacks data done
+ATLC's Zacks data done
+JBHT's Zacks data done
+SAMG's Zacks data done
+PATK's Zacks data done
+IRBT's Zacks data done
+CWH's Zacks data done
+NBIX's Zacks data done
+SAIC's Zacks data done
+VICI's Zacks data done
+HASI's Zacks data done
+OCFC's Zacks data done
+CHCT's Zacks data done
+RTLR's Zacks data done
+IR's Zacks data done
+INVH's Zacks data done
+VCTR's Zacks data done
+MGP's Zacks data done
+SACH's Zacks data done
+CARG's Zacks data done
+FORM's Zacks data done
+STM's Zacks data done
+COST's Zacks data done
+KEYS's Zacks data done
+FDS's Zacks data done
+CCMP's Zacks data done
+CORT's Zacks data done
+TREE's Zacks data done
+BBCP's Zacks data done
+ETRN's Zacks data done
+TEO's Zacks data done
+WAL's Zacks data done
+CNOB's Zacks data done
+GNTY's Zacks data done
+ESQ's Zacks data done
+PVBC's Zacks data done
+FCCY's Zacks data done
+SMBK's Zacks data done
+PNFP's Zacks data done
+MCB's Zacks data done
+MC's Zacks data done
+HONE's Zacks data done
+NBHC's Zacks data done
+SMMF's Zacks data done
+CCB's Zacks data done
+TW's Zacks data done
+IBKR's Zacks data done
+FFWM's Zacks data done
+GMRE's Zacks data done
+FHN's Zacks data done
+CHGG's Zacks data done
+FSBW's Zacks data done
+SSB's Zacks data done
+ABTX's Zacks data done
+GGAL's Zacks data done
+OPFI's Zacks data done
+LOVE's Zacks data done
+AAWW's Zacks data done
+ONEW's Zacks data done
+GOOS's Zacks data done
+SAIA's Zacks data done
+CRM's Zacks data done
+ACLS's Zacks data done
+LH's Zacks data done
+UCTT's Zacks data done
+OPRT's Zacks data done
+WCC's Zacks data done
+KFRC's Zacks data done
+IT's Zacks data done
+ZIM's Zacks data done
+FVCB's Zacks data done
+MPB's Zacks data done
+FHI's Zacks data done
+DXC's Zacks data done
+REPX's Zacks data done
+SAFE's Zacks data done
+OLK's Zacks data done
+CDNS's Zacks data done
+LX's Zacks data done
+GFF's Zacks data done
+GTLS's Zacks data error
+ACN's Zacks data done
+LRCX's Zacks data done
+VBTX's Zacks data done
+SGC's Zacks data done
+SCHW's Zacks data done
+NCBS's Zacks data done
+CCNE's Zacks data done
+STL's Zacks data done
+SASR's Zacks data done
+MNSB's Zacks data done
+AOMR's Zacks data done
+ATCO's Zacks data done
+LAZY's Zacks data done
+LEGH's Zacks data done
+SMBC's Zacks data done
+FIX's Zacks data done
+DLHC's Zacks data done
+SFST's Zacks data done
+FBNC's Zacks data done
+SNEX's Zacks data done
+UI's Zacks data done
+ZEPP's Zacks data error
+LOMA's Zacks data done
+POOL's Zacks data done
+MKSI's Zacks data done
+RYAM's Zacks data error
+SUPN's Zacks data done
+BR's Zacks data done
+MBUU's Zacks data done
+CASH's Zacks data done
+TROX's Zacks data done
+CMC's Zacks data done
+ATH's Zacks data done
+SFBS's Zacks data done
+JHG's Zacks data done
+SMPL's Zacks data done
+CLBK's Zacks data done
+CAMT's Zacks data done
+LAD's Zacks data done
+DAVA's Zacks data done
+FRHC's Zacks data done
+STAA's Zacks data done
+TROW's Zacks data done
+UFPI's Zacks data done
+SNPS's Zacks data done
+FSV's Zacks data done
+TNC's Zacks data error
+AMCR's Zacks data done
+LGO's Zacks data done
+STEP's Zacks data done
+BSVN's Zacks data done
+IONS's Zacks data done
+CLR's Zacks data done
+EOG's Zacks data done
+MCFT's Zacks data done
+HCC's Zacks data done
+EVR's Zacks data done
+BMA's Zacks data done
+IBCP's Zacks data done
+CFB's Zacks data done
+CVBF's Zacks data done
+QCRH's Zacks data done
+BFC's Zacks data done
+BFST's Zacks data done
+MBCN's Zacks data done
+HIMS's Zacks data done
+GABC's Zacks data done
+SFNC's Zacks data done
+AFYA's Zacks data done
+CDNA's Zacks data done
+SIVB's Zacks data done
+FMAO's Zacks data done
+NVCR's Zacks data done
+MED's Zacks data done
+SWI's Zacks data done
+NIU's Zacks data done
+YNDX's Zacks data done
+AGI's Zacks data done
+DRD's Zacks data done
+QNST's Zacks data done
+JYNT's Zacks data done
+APT's Zacks data error
+BMRN's Zacks data done
+GMAB's Zacks data done
+IBP's Zacks data done
+NFLX's Zacks data done
+SSD's Zacks data done
+BRO's Zacks data done
+SYNH's Zacks data done
+TSLA's Zacks data done
+VICR's Zacks data error
+ERIE's Zacks data done
+CSWI's Zacks data done
+BABA's Zacks data done
+PBFX's Zacks data done
+ANET's Zacks data done
+CABO's Zacks data done
+KMPR's Zacks data done
+ALRM's Zacks data done
+ZM's Zacks data done
+HQY's Zacks data done
+RVLV's Zacks data done
+IDXX's Zacks data done
+VCEL's Zacks data done
+VNDA's Zacks data done
+PGNY's Zacks data done
+KARO's Zacks data done
+GPN's Zacks data done
+VEEV's Zacks data done
+DPZ's Zacks data done
+MA's Zacks data done
+ICUI's Zacks data done
+PAYC's Zacks data done
+CMG's Zacks data done
+TECH's Zacks data done
+URI's Zacks data done
+BOX's Zacks data done
+ENV's Zacks data done
+ETSY's Zacks data done
+TTD's Zacks data done
+RSVR's Zacks data done
+ICLR's Zacks data done
+DXCM's Zacks data done
+AVAV's Zacks data done
+OLLI's Zacks data done
+STRA's Zacks data done
+LOPE's Zacks data done
+VIAC's Zacks data done
+LOGI's Zacks data done
+ENSG's Zacks data done
+APP's Zacks data done
+FTNT's Zacks data done
+GLBE's Zacks data done
+AMWD's Zacks data done
+CRSR's Zacks data done
+ISRG's Zacks data done
+TPL's Zacks data done
+WB's Zacks data done
+NMIH's Zacks data done
+GTN's Zacks data done
+DM's Zacks data done
+ABCL's Zacks data done
+APPF's Zacks data done
+CODX's Zacks data done
+HALO's Zacks data done
+CLF's Zacks data done
+TGNA's Zacks data done
+AXON's Zacks data done
+CLVT's Zacks data done
+VRTX's Zacks data done
+NXST's Zacks data done
+BSX's Zacks data done
+MPLX's Zacks data done
+AUDC's Zacks data done
+PBH's Zacks data done
+NICE's Zacks data done
+PEN's Zacks data done
+AVY's Zacks data done
+NOC's Zacks data done
+MASI's Zacks data done
+PCTY's Zacks data done
+CVS's Zacks data done
+AYX's Zacks data done
+BPMP's Zacks data done
+HEI's Zacks data done
+LIN's Zacks data done
+SHAK's Zacks data done
+RPAY's Zacks data done
+ONTF's Zacks data done
+VTRU's Zacks data done
+PAY's Zacks data done
+LESL's Zacks data done
+SLQT's Zacks data done
+DV's Zacks data done
+RLX's Zacks data done
+PRVA's Zacks data done
+DIBS's Zacks data done
+HNST's Zacks data done
+OLED's Zacks data done
+KMDA's Zacks data done
+FUTU's Zacks data done
+PAGS's Zacks data done
+CANG's Zacks data error
+SQ's Zacks data done
+VITL's Zacks data done
+PHAR's Zacks data done
+PNTG's Zacks data done
+SHOP's Zacks data done
+GSHD's Zacks data done
+KRNT's Zacks data done
+MIME's Zacks data done
+GDOT's Zacks data done
+EBS's Zacks data done
+FB's Zacks data done
+VIPS's Zacks data done
+HEAR's Zacks data done
+VIOT's Zacks data done
+GTES's Zacks data done
+GSMG's Zacks data done
+LAKE's Zacks data done
+ET's Zacks data done
+CENTA's Zacks data done
+AMZN's Zacks data done
+SGEN's Zacks data done
+NEM's Zacks data done
+RFIL's Zacks data done
+VST's Zacks data done
+ABMD's Zacks data done
+FOXF's Zacks data done
+SFM's Zacks data done
+WMS's Zacks data done
+DISCA's Zacks data done
+LGND's Zacks data done
+ADUS's Zacks data done
+XOMA's Zacks data done
+CI's Zacks data done
+CRL's Zacks data done
+MNST's Zacks data done
+IART's Zacks data done
+NSSC's Zacks data done
+CNC's Zacks data done
+EW's Zacks data done
+BTI's Zacks data done
+TME's Zacks data done
+PAAS's Zacks data done
+KWR's Zacks data done
+KL's Zacks data done
+LMT's Zacks data done
+MRCY's Zacks data done
+LHX's Zacks data done
+MKL's Zacks data done
+RNR's Zacks data done
+KDP's Zacks data done
+DSP's Zacks data done
+CENT's Zacks data done
+EAF's Zacks data done
+OMP's Zacks data done
+ADPT's Zacks data done
+CSTL's Zacks data done
+MEC's Zacks data done
+SOI's Zacks data done
+MORF's Zacks data done
+ARNA's Zacks data done
+PGR's Zacks data done
+SSRM's Zacks data done
+SWIM's Zacks data done
+MASS's Zacks data done
+RMO's Zacks data done
+JAMF's Zacks data done
+QFIN's Zacks data done
+EVC's Zacks data done
+GOOG's Zacks data done
+GOOGL's Zacks data done
+NSIT's Zacks data done
+CHE's Zacks data done
+JHX's Zacks data done
+NGVT's Zacks data done
+AMED's Zacks data done
+TPB's Zacks data done
+LHCG's Zacks data done
+MSA's Zacks data done
+ABT's Zacks data done
+TTC's Zacks data done
+NOA's Zacks data done
+TCMD's Zacks data done
+FNF's Zacks data done
+SMCI's Zacks data done
+SITE's Zacks data done
+STRL's Zacks data done
+KNSL's Zacks data done
+RGEN's Zacks data done
+FIZZ's Zacks data done
+DOYU's Zacks data done
+MOMO's Zacks data done
+CQP's Zacks data done
+INMD's Zacks data error
+HZNP's Zacks data done
+AMEH's Zacks data error
+WLK's Zacks data done
+QLYS's Zacks data done
+RMD's Zacks data done
+TGS's Zacks data done
+ISDR's Zacks data done
+FLGT's Zacks data done
+FSI's Zacks data done
+GLPG's Zacks data done
+TMO's Zacks data done
+IAC's Zacks data done
+XPEL's Zacks data done
+AMOT's Zacks data done
+PINC's Zacks data done
+VMD's Zacks data done
+EDN's Zacks data done
+NARI's Zacks data done
+PATH's Zacks data done
+JFIN's Zacks data done
+BRMK's Zacks data done
+APPS's Zacks data done
+NGMS's Zacks data done
+INVA's Zacks data done
+PLMR's Zacks data done
+NESR's Zacks data done
+SBSW's Zacks data done
+DQ's Zacks data done
+MAPS's Zacks data done
+EXEL's Zacks data done
+DF_ZACKS_INDICATORS import to db succeed
+Zacks H updated
+etl_web_04_zacks_data.py is Done
+2021-12-28 13:13:56.708968
+---------------
+Job Finished at: 13:13:56
+Job Time: 02:13:55.3214224

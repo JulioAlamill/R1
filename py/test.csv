@@ -1,0 +1,6 @@
+,ticker,name,market_cap,y_price_1y_est,y_rank,y_rank_analyst_num,profit_margins,eps,pe_ratio,avg_volume,ss_shares_outstanding,dividend_rate_per_share,dividend_yield,y_revenue_growth_est,y_earnings_growth_est,country,sector,industry,market,recommendationkey,growth_est_next_year,growth_est_next_5_years,load_date
+0,FIVE,"Five Below, Inc.",11010391040,236.26,2,19,0.09686,4.662,42.15465,609009,56025400,,,0.275,0.194,United States,Consumer Cyclical,Specialty Retail,us_market,buy,17.90%,46.12%,2021-12-28 20:44:17.058590
+1,JFIN,Jiayin Group Inc.,123965768,13.98,2,1,0.24765,1.261,1.8196669,191359,54025000,,,0.438,0.49,China,Communication Services,Internet Content & Information,us_market,buy,,,2021-12-28 20:44:17.058590
+2,RVLV,"Revolve Group, Inc.",4068537856,81.06,1.8,17,0.112849995,1.227,45.484924,874674,39482500,,,0.616,-0.185,United States,Consumer Cyclical,Internet Retail,us_market,buy,9.70%,26.75%,2021-12-28 20:44:17.058590
+3,GTES,Gates Industrial Corporation pl,4614032896,21.09,2,11,0.07492,0.872,18.125,755120,291935008,,,0.211,0.642,United States,Industrials,Specialty Industrial Machinery,us_market,buy,13.30%,30.28%,2021-12-28 20:44:17.058590
+4,VIOT,"Viomi Technology Co., Ltd",161674000,6.89,2.3,3,0.03012,0.381,6.1286087,306796,69239400,,,-0.289,,China,Consumer Cyclical,"Furnishings, Fixtures & Appliances",us_market,buy,139.10%,,2021-12-28 20:44:17.058590

@@ -1,0 +1,46 @@
+Job started at: 08:33:03---------------
+2021-12-23 08:33:09.391340
+8 lists of 100 tickets to Download
+BS Lists Dowload started at 2021-12-23 08:33:10.051492
+
+
+5 Failed downloads:
+- PRAH: No data found, symbol may be delisted
+- TRMT: No data found, symbol may be delisted
+- STMP: No data found, symbol may be delisted
+- ALTA: No data found, symbol may be delisted
+- SLCT: No data found, symbol may be delisted
+1 of 8 Lists Dowloaded at 2021-12-23 08:33:35.978820
+
+2 of 8 Lists Dowloaded at 2021-12-23 08:33:46.262825
+
+3 of 8 Lists Dowloaded at 2021-12-23 08:33:55.461768
+
+4 of 8 Lists Dowloaded at 2021-12-23 08:34:14.130320
+
+5 of 8 Lists Dowloaded at 2021-12-23 08:34:35.070703
+
+6 of 8 Lists Dowloaded at 2021-12-23 08:34:55.763584
+
+7 of 8 Lists Dowloaded at 2021-12-23 08:35:14.841516
+
+8 of 8 Lists Dowloaded at 2021-12-23 08:35:26.833070
+
+BS Lists Dowload finished at 2021-12-23 08:35:29.833497
+
+BS Calcs Start at 2021-12-23 08:35:29.833497
+
+BS Calcs End at 2021-12-23 08:36:16.138445
+
+BS Imp to DB Start at 2021-12-23 08:36:16.138445
+
+DF_BUY_SELL_FLAG_IMP import to db succeed
+BS Imp to DB End at 2021-12-23 08:37:25.420874
+
+etl_web_02_yahoo_price_BS_Flags_db.py is Done
+2021-12-23 08:37:25.422868
+etl_sql_01_r1_daily_update_db.py is Done
+2021-12-23 08:50:26.330677
+---------------
+Job Finished at: 08:50:26
+Job Time: 00:17:23.2018677
